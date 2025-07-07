@@ -1,0 +1,207 @@
+#EXTM3U 
+#EXTINF:-1  group-title=\"Unknown\", Aguacate TV (1080p) 
+https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", Anime Zone TV (480p) 
+http://animezonetv.net/hls/stream.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", Anzoátegui TV (360p) [Not 24/7] 
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", BabyFirst Spanish 
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/manifest.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", BTA TV (720p) 
+https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", Canal 21 Táchira (360p) 
+https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", Canal Diplomático (720p) [Not 24/7] 
+https://vcp.myplaytv.com/canaldiplomatico/canaldiplomatico/playlist.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", Canal I (720p) 
+https://vcp10.myplaytv.com/canali/canali/playlist.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", Canal Nubeh TV (720p) 
+https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", Caribbean Advantage TV (1080p) [Not 24/7] 
+https://video2.getstreamhosting.com:19360/8216/8216.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", Catatumbo TV (406p) 
+https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", CGTN Español (1080p) 
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", Chivacoa TV Internacional (1080p) 
+https://live20.bozztv.com/akamaissh101/ssh101/1234chivacoa/playlist.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", Cine Adrenalina (720p) 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId= 
+
+#EXTINF:-1  group-title=\"Unknown\", Cine Clásico 
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b9671cdac71b0008f371df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28fb2aae-fcc1-4b39-a190-1ac70222ae41 
+
+#EXTINF:-1  group-title=\"Unknown\", Cine Premiere (720p) 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&t 
+
+#EXTINF:-1  group-title=\"Unknown\", Cine Terror 
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e001-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c0a34186-d9cb-4907-882c-bf61e4d59e0f 
+
+#EXTINF:-1  group-title=\"Unknown\", Cine XOXO 
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e002-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=308fd9dd-2f8a-441f-b59d-e02f4b0aacd7 
+
+#EXTINF:-1  group-title=\"Unknown\", Cinecanal 
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", CSI en Español 
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285532-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ec065848-4bdc-45cb-ad2c-0ef96c23d424 
+
+#EXTINF:-1  group-title=\"Unknown\", DW Español (1080p) 
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", Enlace (720p) 
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", EWTN el Canal Católico (720p) [Not 24/7] 
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", France 24 Español (1080p) 
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", Frecuencia Musical TV [Not 24/7] 
+https://s2.tvdatta.com:3307/hybrid/play.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", Hiperconectados TV 
+https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", History 2 Latin America 
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", HTV 
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HTV/index.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", interTV (1080p) 
+https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", Investiga 
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f99-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28f850bd-0f1c-4ede-b97c-ebd1d9a28126 
+
+#EXTINF:-1  group-title=\"Unknown\", Isla TV (480p) 
+https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", Italianissimo (360p) [Not 24/7] 
+https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", Latina TV (1080p) 
+https://streamtv.intervenhosting.net:3639/live/latinatvlive.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", Locomotion TV (480p) [Not 24/7] 
+http://51.222.85.85:81/hls/loco/index.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", Más Talk (1080p) 
+https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", Monagas Visión (720p) [Not 24/7] 
+https://cloud2.streaminglivehd.com:1936/monagasvision-2/monagasvision-2/playlist.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", National Geographic Latin America 
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", Nuevo Tiempo (720p) [Not 24/7] 
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", Onza TV (720p) 
+https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", Plous TV (1080p) 
+https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", Pluto TV Cine Accion 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=false 
+
+#EXTINF:-1  group-title=\"Unknown\", Pluto TV Cine Estelar 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=&serverSideAds=false 
+
+#EXTINF:-1  group-title=\"Unknown\", PortuTV (480p) [Not 24/7] 
+https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", PRIDEtv LATAM (720p) 
+https://panel.miplay.cl:8082/spectrumchannel/index.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", PromarTV (1080p) [Not 24/7] 
+http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", RCN Más (1080p) 
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", Reforma TV (1080p) 
+https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", Series con Ñ 
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb3087fbbc120007fc46be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8988-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8d10604b-577d-49d0-a6bc-03b028c6758f 
+
+#EXTINF:-1  group-title=\"Unknown\", Siembra TV [Not 24/7] 
+https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", Studio Universal Latin America 
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", TAM TV (240p) 
+https://tv.webtuya.com:3726/live/tammeridalive.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", TeleAragua (480p) 
+http://45.173.198.59:8080/hls/nginx3.m3u8?tla= 
+
+#EXTINF:-1  group-title=\"Unknown\", Telecolor (480p) 
+https://cloud.livescast.com:19360/telecolor/telecolor.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", Telesol TV (720p) 
+https://vcp15.myplaytv.com/telesoltv/telesoltv/playlist.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", Televisora de Oriente (406p) 
+https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", Tevex (720p) [Not 24/7] 
+https://v4.tustreaming.cl/tevexinter/index.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", TNO Radio (720p) 
+https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", Torococo TV (720p) [Not 24/7] 
+https://us.streaminghd.cl/torococotelevision/video.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", TRT (410p) [Not 24/7] 
+https://vcp12.myplaytv.com/trt/trt/playlist.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", TRV (480p) 
+https://vcp3.myplaytv.com/trv/trv/playlist.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", TV FANB (720p) 
+https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", TVS (720p) 
+https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", UCL (720p) 
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", UniTV (720p) 
+https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", USA Network Latin America 
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", Vale TV (480p) [Not 24/7] 
+https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", Venevisión Internacional (720p) 
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8 
+
+#EXTINF:-1  group-title=\"Unknown\", Vepaco TV (480p) 
+https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8 
+
+
+
