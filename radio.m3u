@@ -1,9 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1  group-title=\"Unknown\", aaaaaaa
-https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0446
-
-
 #EXTINF:-1  group-title=\"Unknown\", Latina
 http://streaming.latina101.com.ar:8080/RadioLatina
 
@@ -69,4 +64,48 @@ http://streaming01.shockmedia.com.ar:9628/stream
 
 #EXTINF:-1  group-title=\"Unknown\", LU32
 http://s1.radiosnethosting.com:9966/;s.mp3/;stream.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", LU36
+http://radio.solumedia.com.ar:8014/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Dale
+http://01.solumedia.com.ar:8238/stream
+
+#EXTINF:-1  group-title=\"Unknown\", AM 1210 Radio Las Flores
+http://streaming1.locucionar.com:13402/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Flash 99.9
+http://s1.radiosnethosting.com:9858/;stream.nsv&type=mp3
+
+#EXTINF:-1  group-title=\"Unknown\", T20
+http://radio.solumedia.com.ar:8260/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Cielo
+http://streamall.alsolnet.com:443/radiocielo
+
+#EXTINF:-1  group-title=\"Unknown\", Simple
+http://198.50.206.239:8022/;
+
+#EXTINF:-1  group-title=\"Unknown\", 
+http://s2.radiosnethosting.com:9750/;
+
+#EXTINF:-1  group-title=\"Unknown\", FM Full 94.9
+http://nvradios.com:9396/;
+
+#EXTINF:-1  group-title=\"Unknown\", Radio María
+http://dreamsiteradiocp.com:8004/
+
+#EXTINF:-1  group-title=\"Unknown\", Shopping
+http://suenas.net:8090/shoppingclassics
+
+#EXTINF:-1  group-title=\"Unknown\", Radio de Folclore
+http://streaming01.shockmedia.com.ar:9910/;
+
+#EXTINF:-1  group-title=\"Unknown\", Pobre Jonny
+https://stream4.suenas.net/pobrejohnny
+
+#EXTINF:-1  group-title=\"Unknown\", Radio 2
+http://radio2.radio.rosario3.com:8000/prueba2
+
+
 
