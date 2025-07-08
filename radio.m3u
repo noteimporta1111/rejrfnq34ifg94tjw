@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1  group-title=\"Unknown\", 1 Radio El faro (Rio colorado)
+http://genexservicios.com:8348/listen.pls
+
 #EXTINF:-1  group-title=\"Unknown\", 1 Radio Colonia 550
 https://streaming1.hostingmontevideo.com:7019/
 
