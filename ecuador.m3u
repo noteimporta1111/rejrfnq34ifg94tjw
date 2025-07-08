@@ -1,95 +1,78 @@
 #EXTM3U
-#EXTINF:-1  group-title=\"Unknown\", América Estéreo Guayaquil (360p)
+#EXTINF:-1  group-title=\"Unknown\", América Estéreo Guayaquil 
 https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", América Estéreo Ibarra (720p)
+#EXTINF:-1  group-title=\"Unknown\", América Estéreo Ibarra 
 https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", América Estéreo Quito (1080p)
+#EXTINF:-1  group-title=\"Unknown\", América Estéreo Quito 
 https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", América Estéreo Tulcán (614p)
+#EXTINF:-1  group-title=\"Unknown\", América Estéreo Tulcán 
 https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Anime Zone TV (480p)
+#EXTINF:-1  group-title=\"Unknown\", Anime Zone TV 
 http://animezonetv.net/hls/stream.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Asomavisión (614p)
+#EXTINF:-1  group-title=\"Unknown\", Asomavisión 
 https://asomatv.duckdns.org/livestream/stream.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Austral TV (1080p)
+#EXTINF:-1  group-title=\"Unknown\", Austral TV 
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 
 #EXTINF:-1  group-title=\"Unknown\", BabyFirst Spanish
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/manifest.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Bob Esponja LATAM
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=94b33a50-52dc-11ed-8a57-a7949f30f39c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c32ca8be-d69f-4d5d-af36-5defdd524167&userId=&serverSideAds=false
-
-#EXTINF:-1  group-title=\"Unknown\", Capricho TV (720p) [Not 24/7]
+#EXTINF:-1  group-title=\"Unknown\", Capricho TV  
 https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Caribbean Advantage TV (1080p) [Not 24/7]
+#EXTINF:-1  group-title=\"Unknown\", Caribbean Advantage TV  
 https://video2.getstreamhosting.com:19360/8216/8216.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", CGTN Español (1080p)
+#EXTINF:-1  group-title=\"Unknown\", CGTN Español 
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Cine Adrenalina (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
-
-#EXTINF:-1  group-title=\"Unknown\", Cine Clásico
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b9671cdac71b0008f371df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28fb2aae-fcc1-4b39-a190-1ac70222ae41
-
-#EXTINF:-1  group-title=\"Unknown\", Cine Premiere (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1  group-title=\"Unknown\", Cine Terror
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e001-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c0a34186-d9cb-4907-882c-bf61e4d59e0f
-
-#EXTINF:-1  group-title=\"Unknown\", Cine XOXO
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e002-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=308fd9dd-2f8a-441f-b59d-e02f4b0aacd7
 
 #EXTINF:-1  group-title=\"Unknown\", Cinecanal
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Ciracu TV (720p) [Not 24/7]
+#EXTINF:-1  group-title=\"Unknown\", Ciracu TV  
 https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
 
 #EXTINF:-1  group-title=\"Unknown\", CSI en Español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285532-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ec065848-4bdc-45cb-ad2c-0ef96c23d424
 
-#EXTINF:-1  group-title=\"Unknown\", Curiquingue TV (720p)
+#EXTINF:-1  group-title=\"Unknown\", Curiquingue TV 
 https://video2.lhdserver.es/pjtv/live.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", DW Español (1080p)
+#EXTINF:-1  group-title=\"Unknown\", DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Ecua Stereo Radio TV (1080p)
+#EXTINF:-1  group-title=\"Unknown\", Ecua Stereo Radio TV 
 https://video.misistemareseller.com/ecuastereotv/ecuastereotv/playlist.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Ecuador TV (720p)
+#EXTINF:-1  group-title=\"Unknown\", Ecuador TV 
 https://samson.streamerr.co:8081/shogun/index.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Ecuavisa (1080p) [Not 24/7]
+#EXTINF:-1  group-title=\"Unknown\", Ecuavisa  
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", EducaTV (720p) [Not 24/7]
+#EXTINF:-1  group-title=\"Unknown\", EducaTV  
 https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Enlace (720p)
+#EXTINF:-1  group-title=\"Unknown\", Enlace 
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", EWTN el Canal Católico (720p) [Not 24/7]
+#EXTINF:-1  group-title=\"Unknown\", EWTN el Canal Católico  
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", FM Mundo (1080p)
+#EXTINF:-1  group-title=\"Unknown\", FM Mundo 
 https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", France 24 Español (1080p)
+#EXTINF:-1  group-title=\"Unknown\", France 24 Español 
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Frecuencia Musical TV [Not 24/7]
+#EXTINF:-1  group-title=\"Unknown\", Frecuencia Musical TV 
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
 #EXTINF:-1  group-title=\"Unknown\", Hiperconectados TV
@@ -101,97 +84,80 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
 #EXTINF:-1  group-title=\"Unknown\", HTV
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HTV/index.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", IeanJesus Ecuador (720p)
+#EXTINF:-1  group-title=\"Unknown\", IeanJesus Ecuador 
 https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Infinita TV (1080p)
+#EXTINF:-1  group-title=\"Unknown\", Infinita TV 
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Investiga
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f99-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28f850bd-0f1c-4ede-b97c-ebd1d9a28126
-
-#EXTINF:-1  group-title=\"Unknown\", La Perla Radio TV (720p) [Not 24/7]
+#EXTINF:-1  group-title=\"Unknown\", La Perla Radio TV  
 https://eu1.servers10.com:8081/8068/index.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Locomotion TV (480p) [Not 24/7]
+#EXTINF:-1  group-title=\"Unknown\", Locomotion TV  
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1  group-title=\"Unknown\", 
 https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Manavisión (480p)
+#EXTINF:-1  group-title=\"Unknown\", Manavisión 
 https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Marca TV (1080p)
+#EXTINF:-1  group-title=\"Unknown\", Marca TV 
 https://eu1.servers10.com:8081/8030/index.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Metropoli Medios TV (720p)
+#EXTINF:-1  group-title=\"Unknown\", Metropoli Medios TV 
 https://eu1.servers10.com:8081/8214/index.m3u8
 
 #EXTINF:-1  group-title=\"Unknown\", National Geographic Latin America
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Nuevo Tiempo (720p) [Not 24/7]
+#EXTINF:-1  group-title=\"Unknown\", Nuevo Tiempo  
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Platzi TV (1080p)
+#EXTINF:-1  group-title=\"Unknown\", Platzi TV 
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Plous TV (1080p)
+#EXTINF:-1  group-title=\"Unknown\", Plous TV 
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Plus TV (720p) [Not 24/7]
+#EXTINF:-1  group-title=\"Unknown\", Plus TV  
 https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Pluto TV Cine Accion
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=false
 
-#EXTINF:-1  group-title=\"Unknown\", Pluto TV Cine Estelar
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=&serverSideAds=false
-
-#EXTINF:-1  group-title=\"Unknown\", Pluto TV Cine Suspenso (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
-#EXTINF:-1  group-title=\"Unknown\", Pluto TV The Walking Dead ESP (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e82bb378601b80007b4bd78&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=925&terminate=false&userId=
-
-#EXTINF:-1  group-title=\"Unknown\", PRIDEtv LATAM (720p)
+#EXTINF:-1  group-title=\"Unknown\", PRIDEtv LATAM 
 https://panel.miplay.cl:8082/spectrumchannel/index.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Puruwa TV (720p)
+#EXTINF:-1  group-title=\"Unknown\", Puruwa TV 
 https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Radio Alegria 98.5 FM (720p)
+#EXTINF:-1  group-title=\"Unknown\", Radio Alegria 98.5 FM 
 https://video.compuwebecuador.com:3880/stream/play.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Radio Bonita 106.7 (720p)
+#EXTINF:-1  group-title=\"Unknown\", Radio Bonita 106.7 
 https://cloudvideo.servers10.com:8081/8154/index.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Radio Cuenca Estéreo (720p)
+#EXTINF:-1  group-title=\"Unknown\", Radio Cuenca Estéreo 
 https://eu1.servers10.com:8081/8074/index.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Radio Fantástica 98.9 FM (1080p)
+#EXTINF:-1  group-title=\"Unknown\", Radio Fantástica 98.9 FM 
 http://190.107.232.9:8082/livestream/stream.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Radio Monumental TV (720p) [Not 24/7]
+#EXTINF:-1  group-title=\"Unknown\", Radio Monumental TV  
 https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8
 
 #EXTINF:-1  group-title=\"Unknown\", 
 https://signal.suyaitv.cl/live/26/playlist.m3u8?username=ZZDemoIPTVGH&password=9PcdCnFxUe
 
-#EXTINF:-1  group-title=\"Unknown\", RCN Más (1080p)
+#EXTINF:-1  group-title=\"Unknown\", RCN Más 
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", RTV Riobamba (720p) [Not 24/7]
+#EXTINF:-1  group-title=\"Unknown\", RTV Riobamba  
 https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Señal Positiva TV (1080p)
+#EXTINF:-1  group-title=\"Unknown\", Señal Positiva TV 
 https://eu1.servers10.com:8081/8108/index.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Series con Ñ
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb3087fbbc120007fc46be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8988-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8d10604b-577d-49d0-a6bc-03b028c6758f
-
-#EXTINF:-1  group-title=\"Unknown\", Sono Onda TV (720p)
+#EXTINF:-1  group-title=\"Unknown\", Sono Onda TV 
 https://live.obslivestream.com/sonoondatv/index.m3u8
 
 #EXTINF:-1  group-title=\"Unknown\", Studio Universal Latin America
@@ -200,36 +166,35 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.
 #EXTINF:-1  group-title=\"Unknown\", 
 https://signal.suyaitv.cl/live/35/playlist.m3u8?username=ZZDemoIPTVGH&password=9PcdCnFxUe
 
-#EXTINF:-1  group-title=\"Unknown\", Telerama (240p) [Not 24/7]
+#EXTINF:-1  group-title=\"Unknown\", Telerama (240p) 
 https://envivo.telerama.ec/stream.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Tevex (720p) [Not 24/7]
+#EXTINF:-1  group-title=\"Unknown\", Tevex  
 https://v4.tustreaming.cl/tevexinter/index.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", TV Color Canal 36 (720p)
+#EXTINF:-1  group-title=\"Unknown\", TV Color Canal 36 
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", UCL (720p)
+#EXTINF:-1  group-title=\"Unknown\", UCL 
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
 #EXTINF:-1  group-title=\"Unknown\", UCSG TV
 https://stream.catomedia.net/catomedia-app/index.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", UNIANDES TV (720p)
+#EXTINF:-1  group-title=\"Unknown\", UNIANDES TV 
 https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Unsion TV (1080p)
+#EXTINF:-1  group-title=\"Unknown\", Unsion TV 
 http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
 
 #EXTINF:-1  group-title=\"Unknown\", USA Network Latin America
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Venevisión Internacional (720p)
+#EXTINF:-1  group-title=\"Unknown\", Venevisión Internacional 
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Vive Kanal D Drama (1080p)
+#EXTINF:-1  group-title=\"Unknown\", Vive Kanal D Drama 
 https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Vos y TV (720p) [Not 24/7]
+#EXTINF:-1  group-title=\"Unknown\", Vos y TV  
 https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
-
