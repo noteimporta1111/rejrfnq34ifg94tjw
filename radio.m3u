@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1  group-title=\"Unknown\", 1 Radio Colonia 550
+https://streaming1.hostingmontevideo.com:7019/
+
+#EXTINF:-1  group-title=\"Unknown\", 1 Delta 90.3
+https://cdn.instream.audio/:9069/stream
+
+
+
+
 
 #EXTINF:-1  group-title=\"Unknown\", 1 Radio Conexion Web TV 
 https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8
