@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1  group-title=\"Unknown\", Prensa Latina TV (1080p)
+#EXTINF:-1  group-title=\"Unknown\", Prensa Latina TV
 https://eu1.servers10.com:8081/8192/index.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Radio y Televisión Martí (720p)
+#EXTINF:-1  group-title=\"Unknown\", Radio y Televisión Martí
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
 
