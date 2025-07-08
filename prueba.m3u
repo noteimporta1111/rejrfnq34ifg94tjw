@@ -1,0 +1,27 @@
+# --- Argentina ---
+#EXTINF:-1,Canal 1 Argentina
+http://url-canal1-argentina/stream.m3u8
+#EXTINF:-1,Canal 2 Argentina
+http://url-canal2-argentina/stream.m3u8
+
+# --- Bolivia ---
+#EXTINF:-1,Canal 1 Bolivia
+http://url-canal1-bolivia/stream.m3u8
+#EXTINF:-1,Canal 2 Bolivia
+http://url-canal2-bolivia/stream.m3u8
+
+# --- Brasil ---
+#EXTINF:-1,Canal 1 Brasil
+http://url-canal1-brasil/stream.m3u8
+#EXTINF:-1,Canal 2 Brasil
+http://url-canal2-brasil/stream.m3u8
+
+# --- Chile ---
+#EXTINF:-1,Canal 1 Chile
+http://url-canal1-chile/stream.m3u8
+#EXTINF:-1,Canal 2 Chile
+http://url-canal2-chile/stream.m3u8
+
+# --- Otro ---
+#EXTINF:-1,Canal ejemplo
+http://url-canal-ejemplo/stream.m3u8
