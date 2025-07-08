@@ -215,6 +215,1856 @@ https://sonic.mediatelekom.net/8274/stream
 #EXTINF:-1  group-title=\"Unknown\", Wifon FM
 https://betelgeuse.nucast.co.uk:8044/wifonfm
 
+#EXTINF:-1  group-title=\"Unknown\", Onda Cieza
+https://sonic.mediatelekom.net/8436/stream
 
+#EXTINF:-1  group-title=\"Unknown\", Metropólitan Radio
+https://sonic.mediatelekom.net/8012/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Compañía
+https://sonic.mediatelekom.net/8276/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Inter Radio
+https://sonic.mediatelekom.net/8460/stream
+
+#EXTINF:-1  group-title=\"Unknown\", La Jungla Yecla
+https://streaming12.elitecomunicacion.es:8204/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Color FM
+https://streaming12.elitecomunicacion.es:8212/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Exterior
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_re_main.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", RNA Andorra
+https://livesg.rtva.hiway.media/restreamer/rtva_client/gpu-f-c0-7/restreamer/outgest/578e48f3-c654-4638-948a-be990c90807b/manifest.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", AM Andorra
+https://livesg.rtva.hiway.media/restreamer/rtva_client/gpu-g-c0-3/restreamer/outgest/0aeb53b3-9ec2-4f62-8b4d-e0d27ec8ec6e/manifest.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", SER Andorra
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ANDORRA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Flaix Andorra
+https://streaming.giraweb.com/8020/stream/;.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Flaixbac Andorra
+https://streaming.giraweb.com/8010/stream/;.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Valira Andorra
+https://mars.streamerr.co/8236/stream
+
+#EXTINF:-1  group-title=\"Unknown\", BiG FM Alemania
+https://streams.bigfm.de/bigfm-deutschland-128-mp3
+
+#EXTINF:-1  group-title=\"Unknown\", QMusic Holanda
+https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_64.aac
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Italia
+https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", RDP Int. Portugal
+https://streaming-live.rtp.pt/liveradio/rdpint80a/chunklist_DVR.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Comercial Portugal
+https://stream-hls.bauermedia.pt/comercial.aac/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", RFM Portugal
+https://playerservices.streamtheworld.com/api/livestream-redirect/RFM.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", BFBS Gibraltar 1 2
+https://edge-audio-02-gos1.sharp-stream.com/ssvcbfbs7.aac
+
+#EXTINF:-1  group-title=\"Unknown\", BFBS Gibraltar 1 2
+https://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs2.aac
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Montecarlo
+https://icy.unitedradio.it/RMC.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Radio San Marino
+https://d18ufyp3q60j7u.cloudfront.net/radio-ch01/radio-ch01/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Tomorrowland Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Total Rock UK
+https://s3.citrus3.com:8056/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Gaydio UK
+https://listen-gaydio.sharp-stream.com/gaydiouk.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Francia Internacional
+https://rfienespagnol64k.ice.infomaniak.ch/rfienespagnol-64.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Jazz Radio Francia
+https://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", LOS40 Argentina
+https://frontend.radiohdvivo.com/los40/live?dist=los40-web-live_streaming_play
+
+#EXTINF:-1  group-title=\"Unknown\", FM Rock & Pop Argentina
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOP.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", LOS40 México
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICO.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Ke Buena FM México
+https://playerservices.streamtheworld.com/api/livestream-redirect/KEBUENA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", EXA FM México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Amor FM México
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICO.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Alfa 91.3 FM México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHFAJ_FM.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", RPP Noticias Perú
+https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/live.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Radio La Zona Perú
+https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Oxígeno Perú
+https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Z Rock & Pop Perú
+https://radioz.egostreaming.pe/radio/3e4f6a1b2c3d4e567890abcd/
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Nacional Perú
+https://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", DelSol Uruguay
+https://delsol-2.nty.uy/stream/1/
+
+#EXTINF:-1  group-title=\"Unknown\", CBN Classic Christian
+https://streams.cbnradio.com/Classic-Christian-128K
+
+#EXTINF:-1  group-title=\"Unknown\", CBN Praise
+https://streams.cbnradio.com/praise-128K
+
+#EXTINF:-1  group-title=\"Unknown\", CBN Selah
+https://streams.cbnradio.com/instrumental-128K
+
+#EXTINF:-1  group-title=\"Unknown\", CBN Cross Country
+https://streams.cbnradio.com/country-128K
+
+#EXTINF:-1  group-title=\"Unknown\", CBN Contemporary
+https://streams.cbnradio.com/contemporary-128K
+
+#EXTINF:-1  group-title=\"Unknown\", CBN Gospel
+https://streams.cbnradio.com/gospel-128K
+
+#EXTINF:-1  group-title=\"Unknown\", CBN Southern Gospel
+https://streams.cbnradio.com/southern-gospel-128K
+
+#EXTINF:-1  group-title=\"Unknown\", CBN Superbook
+https://streams.cbnradio.com/superbook-128K
+
+#EXTINF:-1  group-title=\"Unknown\", CBN Fiesta Hoy
+https://streams.cbnradio.com/fiesta-hoy-128K
+
+#EXTINF:-1  group-title=\"Unknown\", CBN News
+https://streams.cbnradio.com/news-128K
+
+#EXTINF:-1  group-title=\"Unknown\", CBN Christmas
+https://streams.cbnradio.com/christmas-128K
+
+#EXTINF:-1  group-title=\"Unknown\", CBN Cross Country Christmas
+https://streams.cbnradio.com/country-christmas-128K
+
+#EXTINF:-1  group-title=\"Unknown\", Ràdio Mollet
+https://enacast.com/radiomollet/streams/HD
+
+#EXTINF:-1  group-title=\"Unknown\", UAB Ràdio
+https://videosdigitals.uab.cat/live/uabradio/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Ràdio Montblanc
+https://relay.stream.enacast-cloud.com:40045/radiomontblanc128.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Ràdio Despí
+https://streaming12.elitecomunicacion.es:8228/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Ràdio Despí
+https://streaming12.elitecomunicacion.es:8228/stream?type=.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Ràdio Desvern
+https://relay.stream.enacast-cloud.com:40001/radiodesvern128.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Ràdio Desvern
+https://enacast.com/radiodesvern/streams/HD
+
+#EXTINF:-1  group-title=\"Unknown\", Ràdio Sitges
+https://s2.radio.co/s8e5dffe5e/listen
+
+#EXTINF:-1  group-title=\"Unknown\", Ràdio Amèrica Barcelona
+https://s3.radio.co/sf09831a0e/listen
+
+#EXTINF:-1  group-title=\"Unknown\", Ràdio Gràcia
+https://enacast.com/radiogracia/streams/HD
+
+#EXTINF:-1  group-title=\"Unknown\", Ràdio Gràcia
+https://streaming.enacast.com/radiograciaHD.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Gran Via Radio
+https://servidor14-3.brlogic.com:7066/live
+
+#EXTINF:-1  group-title=\"Unknown\", Ràdio Llançà
+https://relay.stream.enacast-cloud.com:40323/radiollancaHD.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Colera Ràdio
+https://servidor24-5.brlogic.com:7494/live
+
+#EXTINF:-1  group-title=\"Unknown\", Ràdio Santpedor
+https://radiosantpedor.radioca.st/stream
+
+#EXTINF:-1  group-title=\"Unknown\", U Ràdio
+https://streaming.enacast.com/radioulldecona128.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", 21 Ràdio
+https://control.streaming-pro.com:8018/stream.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", RTVCE
+https://5924d3ad0efcf.streamlock.net/ceutaradio/ceutaradiolive/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Nacional Ceuta
+https://dispatcher.rndfnk.com/crtve/rne1/ceu/mp3/high
+
+#EXTINF:-1  group-title=\"Unknown\", Radio 5 Ceuta
+https://dispatcher.rndfnk.com/crtve/rne5/ceu/mp3/high
+
+#EXTINF:-1  group-title=\"Unknown\", SER Ceuta
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CEUTA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Ceuta
+https://atres-live.ondacero.es/live/delegaciones/oc/ceuta/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Madrid
+https://tvradio-1-23-secure2.akamaized.net/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Madrid
+https://ondamadrid-1-23-secure2.akamaized.net/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Nacional Madrid
+https://dispatcher.rndfnk.com/crtve/rne1/mad/mp3/high
+
+#EXTINF:-1  group-title=\"Unknown\", Radio 5 Madrid
+https://dispatcher.rndfnk.com/crtve/rne5/mad/mp3/high
+
+#EXTINF:-1  group-title=\"Unknown\", SER Henares
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_HENARES.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Madrid
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MADRID.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Madrid Norte
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_MADRID_NORTE.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Madrid Oeste
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MADRID_OESTE.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Madrid Sierra
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_MADSIERRA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Madrid Sur
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_MADRID_SUR.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Alcalá de Henares
+https://atres-live.ondacero.es/live/delegaciones/oc/alcala/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Madrid
+https://atres-live.ondacero.es/live/ondacero/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", La Jungla Radio
+https://streaming12.elitecomunicacion.es:8626/stream?type=.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", El Salto Radio
+https://radio.radiobot.org/listen/salto/elsaltoradio.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Dynamis Radio
+https://control.streaming-pro.com:8014/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Top Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRADIO.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Master FM
+https://radios.lamaster.es:8000/madrid
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Vallekas
+https://radio.radiobot.org/listen/rvk/rvk.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Capital Radio
+https://mdstrm.com/audio/67d2a8685ae4234de49e40f6/live.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Tentación
+https://streaming6.locucionar.com:2020/stream/radiotentacion
+
+#EXTINF:-1  group-title=\"Unknown\", Peperadio
+https://server10.emitironline.com:8032/
+
+#EXTINF:-1  group-title=\"Unknown\", Círculo de Bellas Artes Madrid
+https://play.cdn.enetres.net/863690D2607511E098B669C2DFD72085028/02984/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Merlín C Radio
+https://radio.radiobot.org/listen/omc/directo.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Villalba
+https://srv7041.dns-lcinternet.com/8042/stream
+
+#EXTINF:-1  group-title=\"Unknown\", REC Radio
+https://server9.emitironline.com:19488/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Globo FM
+https://sonic.sistemahost.es/8200/;.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Madrid Sierra
+https://streaming12.elitecomunicacion.es:8070/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Univ. Alcalá Henares
+https://streaming2.elitecomunicacion.es:8066/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Antena CEMU
+https://sonic.mediatelekom.net/9980/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Sol Radio
+https://azura.abcorp.es/radio/8220/solradio
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Vallekana
+https://sonic.sistemahost.es/8152/;
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Aranjuez
+https://server8.emitironline.com:18544/;.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Nacional Navarra
+https://dispatcher.rndfnk.com/crtve/rne1/nav/mp3/high
+
+#EXTINF:-1  group-title=\"Unknown\", Radio 5 Navarra
+https://dispatcher.rndfnk.com/crtve/rne5/nav/mp3/high
+
+#EXTINF:-1  group-title=\"Unknown\", SER Pamplona
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_PAMPLONA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Tafalla
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_TAFALLA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Tudela
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_TUDELA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", COPE Estella
+https://server8.emitironline.com:9866/radio
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Pamplona
+https://atres-live.ondacero.es/live/delegaciones/oc/pamplona/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Pamplona
+https://atres-live.ondacero.es/live/delegaciones/oc/pamplonaeventos/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", esRadio Tudela
+https://azura.abcorp.es/radio/8110/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Cadena 100 Estella
+https://server9.emitironline.com:9373/radio
+
+#EXTINF:-1  group-title=\"Unknown\", Euskalerria Irratia
+https://server9.emitironline.com:8014/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Estella-Lizarra FM
+https://server9.emitironline.com:19512/radio
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Universidad de Navarra
+https://s2.radio.co/sb23429e9f/listen
+
+#EXTINF:-1  group-title=\"Unknown\", À Punt FM
+https://bcovlive-a.akamaihd.net/0841326767184ef7acc0489071ec64da/eu-central-1/6057955885001/playlist_dvr.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Nacional Comunidad Valenciana
+https://dispatcher.rndfnk.com/crtve/rne1/val/mp3/high
+
+#EXTINF:-1  group-title=\"Unknown\", Radio 5 Comunidad Valenciana
+https://dispatcher.rndfnk.com/crtve/rne5/vlc/mp3/high
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Marca Valencia
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_VALENCIA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Alcoy
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ALCOY.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Alicante
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALICANTE.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Castellón
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_CASTELLON.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Dénia
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_DENIA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Elche
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ELCHE.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Elda
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ELDA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Gandia
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_GANDIA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER La Vall d'Uixó
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_VALLDUIXO.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Ontinyent
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ONTIYENT.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Orihuela
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ORIHUELA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Valencia
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_VALENCIA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Villena
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_VILLENA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Xàtiva
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_XATIVA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", COPE Alcoy
+https://server8.emitironline.com:10876/;
+
+#EXTINF:-1  group-title=\"Unknown\", COPE Onda Naranja
+https://str1.mediatelekom.net:8100/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Alicante
+https://atres-live.ondacero.es/live/delegaciones/oc/alicante/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Alzira
+https://atres-live.ondacero.es/live/delegaciones/oc/alzira/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Castellón
+https://atres-live.ondacero.es/live/delegaciones/oc/castellon/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Elche
+https://atres-live.ondacero.es/live/delegaciones/oc/elche/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Marina Baixa
+https://atres-live.ondacero.es/live/delegaciones/oc/villajoyosa/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Sagunto
+https://atres-live.ondacero.es/live/delegaciones/oc/sagunto/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Valencia
+https://atres-live.ondacero.es/live/delegaciones/oc/valencia/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Vega Baja
+https://atres-live.ondacero.es/live/delegaciones/oc/torrevieja/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", LOS40 Benidorm
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ASO_BENIDORM.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", LOS40 Castellón
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ASO_CASTELLON.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Cadena Dial Castellón
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Hot FM Benidorm
+https://ukstream.radiohost.co.uk/listen/hot_fm_dance/radio.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", RM Requena Utiel
+https://cast.rmradio.es/radio/8010/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Dénia FM
+https://stream.serviciospararadios.es/listen/denia_fm/deniafm.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Torrevieja Radio
+https://sonicpanel.globalstream.pro:10973/;
+
+#EXTINF:-1  group-title=\"Unknown\", Alzira Ràdio
+https://alziraradiomob.streaming-pro.com:6172/alziraradio.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", La Jungla Radio Valencia
+https://azurasttp.es/listen/wepappnew/webappnew.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Capital Radio Valencia
+https://mdstrm.com/audio/67e287c809f9212593c3a7c5/live.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Relax FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RELAX_FM.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Activa FM
+https://stream.mediasector.es/radio/8000/activafm.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", + Activa
+https://stream.mediasector.es/radio/8110/mas-activa.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", La Mega FM
+https://stream.mediasector.es/radio/8020/lamega.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", MuyBuena
+https://stream.mediasector.es/radio/8010/muybuena.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Bikini FM
+https://stream.mediasector.es/radio/8030/bikinifm.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Esencia FM
+https://stream.mediasector.es/radio/8040/esenciafm.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Gold FM
+https://stream.mediasector.es/radio/8050/goldfm.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", RockStar
+https://stream.mediasector.es/radio/8060/rockstar.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", La Flamenca
+https://stream.mediasector.es/radio/8070/laflamenca.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", La Que Suena
+https://stream.mediasector.es/radio/8090/laquesuena.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", La Indie
+https://stream.mediasector.es/radio/8130/laindie-valencia.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Motiva
+https://stream.mediasector.es/radio/8120/motiva.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Motiva
+https://stream.mediasector.es/listen/motiva_rocks/motivarocks.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Motiva
+https://stream.mediasector.es/radio/8480/motiva-dance.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Motiva
+https://server5.mediasector.es/listen/motiva_mix/motivaparty.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Corazón FM
+https://stream.emisorasmusicales.net/listen/corazon_fm/corazonfm.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Comboi
+https://stream.mediasector.es/listen/comboi/comboi.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Hallo FM
+https://stream.emisorasmusicales.net/listen/hallo_fm/hallofm.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Sol Latino
+https://stream.emisorasmusicales.net/listen/sol-latino/sol-latino.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Hola Pop
+https://stream.emisorasmusicales.net/listen/hola-pop/holapop.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Party FM
+https://stream.emisorasmusicales.net/listen/party_fm/partyfm.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Código FM
+https://cloudstream2030.conectarhosting.com/8024/;
+
+#EXTINF:-1  group-title=\"Unknown\", Paterna Ahora
+https://server8.emitironline.com:18242/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Ibi
+https://streaming.enacast.com:8000/radioibiSD.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Ràdio l'Om
+https://radiolom.es:8800/;.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Xtra FM
+https://hls1.eu.peppermindmedia.com/xtrafm/south/XtraFMSouth.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda 15 Radio
+https://streaming12.elitecomunicacion.es:8628/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Costa FM Alicante
+https://stream.costafm.es/listen/costafm/radio.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Onda 15 Castalla
+https://azc.standfy.com/radio/8200/onda15
+
+#EXTINF:-1  group-title=\"Unknown\", Cassette FM
+https://cdn4.onstream.audio:9154/cassettefm.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Malibú
+https://cdn4.onstream.audio:9158/maliburadio.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Litoral FM
+https://stream.mediasector.es/radio/8310/litoralfm.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Litoral Oro
+https://stream.mediasector.es/listen/litoral_oro/litoral-oro.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Ràdio Calp
+https://stream.emisorasmusicales.net/listen/radio-calp/radio-calp.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Benicarló
+https://streaming.enacast.com/radiobenicarlo128.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Onda 40 Music
+https://radioonda40music.es:8000/radio.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", V30 Radio
+https://streaming12.elitecomunicacion.es:8604/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Canal Extremadura Radio
+https://canalextremadura-audio.flumotion.cloud/canalextremaduralive/smil:channel1.smil/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Nacional Extremadura
+https://dispatcher.rndfnk.com/crtve/rne1/ext/mp3/high
+
+#EXTINF:-1  group-title=\"Unknown\", Radio 5 Extremadura
+https://dispatcher.rndfnk.com/crtve/rne5/cce/mp3/high
+
+#EXTINF:-1  group-title=\"Unknown\", SER Cáceres
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CACERES.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Extremadura
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_EXTREMADURA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Mérida
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MERIDA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Norte de Extremadura
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_NORTE_EXTREMADURA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Tierra de Barros
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ALMENDRALEJO.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Vegas Altas
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_VEGAS_ALTAS.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Badajoz
+https://atres-live.ondacero.es/live/delegaciones/oc/badajoz/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Cáceres
+https://atres-live.ondacero.es/live/delegaciones/oc/caceres/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Mérida
+https://atres-live.ondacero.es/live/delegaciones/oc/merida/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", esRadio Extremadura
+https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Miajadas
+https://srv7031.dns-lcinternet.com/8044/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Lola FM
+https://srv7031.dns-lcinternet.com/8096/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Galega
+https://crtvg-radiogalega-hls.flumotion.cloud/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Galega Música
+https://crtvg-radiogalega-musica-hls.flumotion.cloud/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Son Galicia Radio
+https://crtvg-songalicia-hls.flumotion.cloud/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Picariña
+https://crtvg-picarina-schlive.flumotion.cloud/crtvglive/smil:channel11PRG.smil/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Nacional Galicia
+https://dispatcher.rndfnk.com/crtve/rne1/gal/mp3/high
+
+#EXTINF:-1  group-title=\"Unknown\", Radio 5 Galicia
+https://dispatcher.rndfnk.com/crtve/rne5/lcg/mp3/high
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Marca Vigo
+https://streaming.enacast.com/radiomarcavigoHD.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Marca Coruña
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_CORUNA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Arosa
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_AROSA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Baixo Miño
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_BAIXOMINO.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Coruña
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_CORUNA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Ferrol
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_FERROL.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Galicia
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_GALICIA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Lugo
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_LUGOAAC.aac
+
+#EXTINF:-1  group-title=\"Unknown\", SER Nordés
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_CEE.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Ourense
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_OURENSE.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Pontevedra
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_PONTEVEDRA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Vigo
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_VIGO.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero A Coruña
+https://atres-live.ondacero.es/live/delegaciones/oc/acoruna/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Lugo
+https://atres-live.ondacero.es/live/delegaciones/oc/lugo/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Monforte de Lemos
+https://atres-live.ondacero.es/live/delegaciones/oc/monforte/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Ourense
+https://atres-live.ondacero.es/live/delegaciones/oc/ourense/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Pontevedra
+https://atres-live.ondacero.es/live/delegaciones/oc/pontevedra/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Santiago
+https://atres-live.ondacero.es/live/delegaciones/oc/santiago/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Vigo
+https://atres-live.ondacero.es/live/delegaciones/oc/vigo/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", LOS40 Classic Vigo
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40CL_ASO_VIGO.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Kyoto FM
+https://sonic.mediatelekom.net/8148/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Municipal de Tui
+https://srv7021.dns-lcinternet.com/8070/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Fórmula Fun
+https://s30.myradiostream.com/:30464/listen.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Negreira
+https://srv7031.dns-lcinternet.com/8030/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Fene
+https://srv7031.dns-lcinternet.com/8086/stream
+
+#EXTINF:-1  group-title=\"Unknown\", +Buena FM
+https://sonic.mediatelekom.net/8156/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Verbena FM
+https://streaming12.elitecomunicacion.es:8222/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Radiofusión
+https://srv7031.dns-lcinternet.com/8032/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Líder
+https://server9.emitironline.com:8200/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Metro FM Ferrol
+https://mediastreamm.com/8216/;.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Net Galicia Radio
+https://sonicpanel.streaming10.net/8140/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Nacional Islas Baleares
+https://dispatcher.rndfnk.com/crtve/rne1/bal/mp3/high
+
+#EXTINF:-1  group-title=\"Unknown\", Radio 5 Islas Baleares
+https://dispatcher.rndfnk.com/crtve/rne5/pmi/mp3/high
+
+#EXTINF:-1  group-title=\"Unknown\", Ibiza Sonica Radio
+https://ibizasonica.streaming-pro.com:8000/ibizasonica
+
+#EXTINF:-1  group-title=\"Unknown\", SER Ibiza
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_IBIZA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Mallorca
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MALLORCA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Menorca
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_MENORCA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Ibiza
+https://atres-live.ondacero.es/live/delegaciones/oc/ibiza/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Mallorca
+https://atres-live.ondacero.es/live/delegaciones/oc/mallorca/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Menorca
+https://atres-live.ondacero.es/live/delegaciones/oc/menorca/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 06AM Ibiza Underground Radio
+https://streams.radio.co/sd1bcd1376/listen
+
+#EXTINF:-1  group-title=\"Unknown\", Ona Mediterrània
+https://enacast.com/onamediterrania/streams/HD
+
+#EXTINF:-1  group-title=\"Unknown\", Ona Mediterrània
+https://streaming.enacast.com/onamediterrania128.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Titoieta Ràdio
+https://topradio.uno:8087/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Balear
+https://server10.emitironline.com:8076/stream
+
+#EXTINF:-1  group-title=\"Unknown\", SAM Ibiza
+https://hls1.eu.peppermindmedia.com/samibiza/audio/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Pure Ibiza Radio
+https://pureibizaradio.streaming-pro.com:8028/stream.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Ushuaia Radio
+https://s4.radio.co/sc6f29e098/listen
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Nacional La Rioja
+https://dispatcher.rndfnk.com/crtve/rne1/rio/mp3/high
+
+#EXTINF:-1  group-title=\"Unknown\", Radio 5 La Rioja
+https://dispatcher.rndfnk.com/crtve/rne5/rio/mp3/high
+
+#EXTINF:-1  group-title=\"Unknown\", SER Calahorra
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CALAHORRA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Rioja
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_RIOJA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Rioja - Logroño
+https://atres-live.ondacero.es/live/delegaciones/oc/logrono/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", esRadio Arnedo
+https://stream20.usastreams.com/8154/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Ràdio Cunit
+https://streaming.enacast.com/radiocunitHD.mp3
+
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Espinosa Merindades
+https://srv7021.dns-lcinternet.com/8072/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Medina
+https://s28.myradiostream.com:13006/listen.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Miranda FM
+https://srv7031.dns-lcinternet.com/8058/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Mortal FM
+http://server2.20comunicacion.com:8044/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Guardo
+https://server10.emitironline.com:10654/radi
+
+#EXTINF:-1  group-title=\"Unknown\", Anda Onda Lerma
+https://topradio.uno:8006/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Fabulosa FM
+https://cast2.vulnerados.es:8102/stream
+
+#EXTINF:-1  group-title=\"Unknown\", RAC1
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", RAC1
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_MES_1.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Catalunya Ràdio
+https://directes-radio-int.3catdirectes.cat/live-content/catalunya-radio-hls/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Catalunya Informació
+https://directes-radio-int.3catdirectes.cat/live-content/catalunya-informacio-hls/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Catalunya Música
+https://directes-radio-int.3catdirectes.cat/live-content/catalunya-musica-hls/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", iCat
+https://directes-radio-int.3catdirectes.cat/live-content/icat-hls/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 3Cat (Exclusiu digital)
+https://directes-radio-int.3catdirectes.cat/live-content/radio-oca-hls/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Nacional Catalunya
+https://dispatcher.rndfnk.com/crtve/rne1/cat/mp3/high
+
+#EXTINF:-1  group-title=\"Unknown\", Ràdio 4 RNE
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r4_main.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Radio 5 Catalunya
+https://dispatcher.rndfnk.com/crtve/rne5/bcn/mp3/high
+
+#EXTINF:-1  group-title=\"Unknown\", SER Catalunya
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CAT.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", LOS40 Catalunya
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CAT.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Marca Barcelona
+https://radiomarcabcnmedia.dns-lcinternet.com:9000/stream
+
+#EXTINF:-1  group-title=\"Unknown\", SER Barcelona
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_BARCELONA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Ebre
+https://cadenaserebre.streaming-pro.com:6021/stream
+
+#EXTINF:-1  group-title=\"Unknown\", SER Girona
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_GIRONA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Lleida
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_LLEIDA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Manresa
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_MANRESA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Penedès-Garraf
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_PENEDES_GARRAF.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Reus
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_REUS.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Tarragona
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_TARRAGONA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Barcelona
+https://atres-live.ondacero.es/live/delegaciones/oc/barcelona/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Girona
+https://atres-live.ondacero.es/live/delegaciones/oc/barcelona/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Lleida
+https://atres-live.ondacero.es/live/delegaciones/oc/lleida/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Tarragona
+https://atres-live.ondacero.es/live/delegaciones/oc/tarragona/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Vilanova
+https://atres-live.ondacero.es/live/delegaciones/oc/vilanova/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Cadena 100 Barcelona
+https://cadena100bcn-cope.flumotion.com/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Rock FM Barcelona
+https://rockfm-barcelona.flumotion.com/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", betevé ràdio
+https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/0_qzjz9cja/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+
+#EXTINF:-1  group-title=\"Unknown\", Barcelona City FM
+https://s2.radio.co/sd9da54aa0/listen
+
+#EXTINF:-1  group-title=\"Unknown\", Tarragona Ràdio
+https://enacast.com/tarragonaradio/streams/HD
+
+#EXTINF:-1  group-title=\"Unknown\", Tarragona Ràdio
+https://relay.stream.enacast-cloud.com:40007/tarragona128.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Ràdio Terrassa
+https://control.streaming-pro.com:8002/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Ràdio Ciutat de Badalona
+https://enacast.com/radiob/streams/HD
+
+#EXTINF:-1  group-title=\"Unknown\", Ràdio Ciutat de Badalona
+https://relay.stream.enacast-cloud.com:40039/radiob128.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", ScannerFM
+https://eu10.fastcast4u.com/scannerfm
+
+#EXTINF:-1  group-title=\"Unknown\", Ràdio Olot
+https://chrome2021.frilab.com:8443/olot
+
+#EXTINF:-1  group-title=\"Unknown\", Imagina Ràdio
+https://relay.stream.enacast-cloud.com:30286/imaginaradioHD.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Ràdio Sabadell
+https://streamer.radio.co/s39e9c768a/listen
+
+#EXTINF:-1  group-title=\"Unknown\", RCE Cultura i Esport
+https://c688s1.kapitalproductions.net/listen/rce/radio.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Canal Blau Ràdio
+https://enacast.com/canalblau/streams/HD
+
+#EXTINF:-1  group-title=\"Unknown\", Canal Blau Ràdio
+https://streaming.enacast.com/canalblau128.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Ràdio El Vendrell
+https://enacast.com/rtvelvendrell/streams/HD
+
+#EXTINF:-1  group-title=\"Unknown\", Ràdio El Vendrell
+https://streaming.enacast.com/rtvelvendrell128.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Altafulla Ràdio
+https://enacast.com/altafullaradio/streams/HD
+
+#EXTINF:-1  group-title=\"Unknown\", Altafulla Ràdio
+https://streaming.enacast.com/altafulla128.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", La Marina FM
+https://streaming2.elitecomunicacion.es:8248/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Mataró Ràdio
+https://relay.stream.enacast-cloud.com:30049/mataroradioHD.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Can Deu FM
+https://radios.solumedia.com/6716/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Cooltura FM
+https://server9.emitironline.com:19244/
+
+#EXTINF:-1  group-title=\"Unknown\", Ràdio Silenci
+https://enacast.com/radiosilenci/streams/HD
+
+#EXTINF:-1  group-title=\"Unknown\", Ràdio Silenci
+https://streaming.enacast.com/radiosilenci128.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Ràdio Vilafranca
+https://radio.rtvvilafranca.cat/rtvvilafranca.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Ona La Torre
+https://streaming.enacast.com/onalatorreSD.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Gum FM Vielha
+https://s4.radio.co/sc1cb45a9f/listen
+
+#EXTINF:-1  group-title=\"Unknown\", Ràdio Igualada
+https://srv7031.dns-lcinternet.com/8024/stream
+
+#EXTINF:-1  group-title=\"Unknown\", RAP107
+https://enacast.com/rap107/streams/HD
+
+#EXTINF:-1  group-title=\"Unknown\", RAP107
+https://relay.stream.enacast-cloud.com:40048/rapradio128.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Ràdio Caldes
+https://enacast.com/radiocaldes/streams/HD
+
+#EXTINF:-1  group-title=\"Unknown\", Ràdio Caldes
+https://relay.stream.enacast-cloud.com:40062/radiocaldes128.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Ràdio Molins de Rei
+https://streaming.enacast.com/radiomolins.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Ràdio Cubelles
+https://enacast.com/radiocubelles/streams/HD
+
+#EXTINF:-1  group-title=\"Unknown\", Ràdio Cubelles
+https://streaming.enacast.com/cubelles128.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Ràdio Granollers
+https://relay.stream.enacast-cloud.com:30324/radiogranollersHD.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Hit103
+https://enacast.com/radiovalls/streams/HD
+
+#EXTINF:-1  group-title=\"Unknown\", Hit103
+https://streaming.enacast.com/radiovalls128.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Styl Manresa
+https://ssl.nexuscast.com:8077/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Ona de Sants FM
+https://edge.mixlr.com/channel/dlyio
+
+#EXTINF:-1  group-title=\"Unknown\", Constantí Ràdio
+https://streaming.enacast.com/radioconstantiSD.mp3
+
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Torredonjimeno
+https://streaming2.elitecomunicacion.es:8118/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Nacional Aragón
+https://dispatcher.rndfnk.com/crtve/rne1/ara/mp3/high
+
+#EXTINF:-1  group-title=\"Unknown\", Radio 5 Aragón
+https://dispatcher.rndfnk.com/crtve/rne5/zgz/mp3/high
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Marca Zaragoza
+https://c6.auracast.net/radio/8020/rmzgz
+
+#EXTINF:-1  group-title=\"Unknown\", SER Calatayud
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CALATAYUD.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Cinco Villas
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CINCO_VILLAS.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Huesca
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_HUESCA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Teruel
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_TERUEL.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Zaragoza
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ZARAGOZA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", COPE Pirineos
+https://s37.derstream.net/cope_pirineos.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Cope Alto Aragón
+https://server8.emitironline.com:18081/radio
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Cinca
+https://atres-live.ondacero.es/live/delegaciones/oc/aso_monzon/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Huesca
+https://atres-live.ondacero.es/live/delegaciones/oc/huesca/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Teruel
+https://atres-live.ondacero.es/live/delegaciones/oc/teruel/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Zaragoza
+https://atres-live.ondacero.es/live/delegaciones/oc/zaragoza/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", LOS40 Zaragoza
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ZARAGOZA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Rumba FM
+https://securestream.radioshd.info/9348/stream/;mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Barbastro-Ainsa
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_BARBASTRO.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Huesca Graus
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_GRAUS.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Huesca Jaca
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_JACA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Huesca Sabiñánigo
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SABINANIGO.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Huesca Sariñena
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SARINENA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Vale Radio
+https://azura7.emisiononline.es/listen/vale_radio/radio.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Nacional Canarias
+https://dispatcher.rndfnk.com/crtve/rne1/cnr/mp3/high
+
+#EXTINF:-1  group-title=\"Unknown\", Radio 5 Canarias - Las Palmas
+https://dispatcher.rndfnk.com/crtve/rne5/lpa/mp3/high
+
+#EXTINF:-1  group-title=\"Unknown\", Radio 5 Canarias - Santa Cruz de Tenerife
+https://dispatcher.rndfnk.com/crtve/rne5/ten/mp3/high
+
+#EXTINF:-1  group-title=\"Unknown\", SER Club Tenerife
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_TENERIFE.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER La Palma
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_LA_PALMA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Lanzarote
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_LANZAROTE.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Las Palmas
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_LAS_PALMAS.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Las Palmas
+https://atres-live.ondacero.es/live/delegaciones/oc/canarias/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Europa FM Tenerife Sur / La Gomera
+https://str1.mediatelekom.net:9950/live
+
+#EXTINF:-1  group-title=\"Unknown\", Kiss FM Canarias
+https://bbkissfmcanarias.kissfmradio.cires21.com/bbkissfmcanarias.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Q FM
+https://securestreams4.autopo.st:1889/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Canal 4 Tenerife
+https://panel5.soydigital.fm/8024/live
+
+#EXTINF:-1  group-title=\"Unknown\", Rumberos FM
+https://str1.mediatelekom.net:9952/live
+
+#EXTINF:-1  group-title=\"Unknown\", La Diez Radio
+https://panel5.soydigital.fm/8030/stream
+
+#EXTINF:-1  group-title=\"Unknown\", El Pejeverde
+https://5c0956165db0b.streamlock.net/radio/lancelot.stream_aac/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Gigante
+https://server8.emitironline.com:18163/stream
+
+#EXTINF:-1  group-title=\"Unknown\", MIX FM Radio
+https://server10.emitironline.com:8064/stream
+
+#EXTINF:-1  group-title=\"Unknown\", 9 Radio
+https://app.sonicpanelradio.com/8072/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Teide
+https://c01.lexycast.de:5070/.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Marca Lanzarote
+https://5c0956165db0b.streamlock.net/radio/marca.stream_aac/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Nacional Cantabria
+https://dispatcher.rndfnk.com/crtve/rne1/ctb/mp3/high
+
+#EXTINF:-1  group-title=\"Unknown\", Radio 5 Cantabria
+https://dispatcher.rndfnk.com/crtve/rne5/ctb/mp3/high
+
+#EXTINF:-1  group-title=\"Unknown\", SER Radio Santander
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SANTANDER.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Asón
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASON.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Castro Urdiales
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CASTRO_URDIALES.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Torrelavega
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_TORRELAVEGA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Castro Urdiales
+https://server8.emitironline.com:10854/;
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Santander
+https://atres-live.ondacero.es/live/delegaciones/oc/santander/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Occidental
+https://server9.emitironline.com:10944/;.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Merindad de Campoo
+https://server8.emitironline.com:18774/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Santoña
+https://server10.emitironline.com:10212/radio.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", ARCO FM
+https://hisparadio.duckdns.org/stream/1/stream.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", CMM Radio
+https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_qilzwlkz/format/applehttp/.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Nacional Castilla-La Mancha
+https://dispatcher.rndfnk.com/crtve/rne1/clm/mp3/high
+
+#EXTINF:-1  group-title=\"Unknown\", Radio 5 Castilla-La Mancha
+https://dispatcher.rndfnk.com/crtve/rne5/tol/mp3/high
+
+#EXTINF:-1  group-title=\"Unknown\", SER 90 Motilla
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_MOTILLA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Albacete
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALBACETE.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Alcázar
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALCAZAR.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Azul
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_AZUL.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Ciudad Real
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CIUDAD_REAL.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Cuenca
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_CUENCA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Guadalajara
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_GUADALAJARA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Puertollano
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_PUERTOLLANO.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Talavera
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_TALAVERA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Tarancón
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_TARANCON.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Toledo
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_TOLEDO.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Valdepeñas
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_VALDEPENAS.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Albacete
+https://atres-live.ondacero.es/live/delegaciones/oc/albacete/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Alcázar de San Juan
+https://atres-live.ondacero.es/live/delegaciones/oc/alcazar/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Ciudad Real
+https://atres-live.ondacero.es/live/delegaciones/oc/ciudadreal/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Cuenca
+https://atres-live.ondacero.es/live/delegaciones/oc/cuenca/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Guadalajara
+https://atres-live.ondacero.es/live/delegaciones/oc/guadalajara/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Puertollano
+https://secure3.todostreaming.es/live/imastv-radio.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Talavera de la Reina
+https://atres-live.ondacero.es/live/delegaciones/oc/talavera/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Toledo
+https://atres-live.ondacero.es/live/delegaciones/oc/toledo/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Valdepeñas
+https://atres-live.ondacero.es/live/delegaciones/oc/valdepenas/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Kolor
+https://stream20.usastreams.com/8122/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Mora
+https://server10.emitironline.com:9075/radio
+
+#EXTINF:-1  group-title=\"Unknown\", La Única FM
+https://stream.radiofutura.es:8010/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Chinchilla
+https://streaming2.elitecomunicacion.es:8114/stream
+
+#EXTINF:-1  group-title=\"Unknown\", ONE FM
+https://stream.onefm.es:8000/onefm.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Nacional Castilla y León
+https://dispatcher.rndfnk.com/crtve/rne1/cyl/mp3/high
+
+#EXTINF:-1  group-title=\"Unknown\", Radio 5 Castilla y León
+https://dispatcher.rndfnk.com/crtve/rne5/vll/mp3/high
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Marca Burgos
+https://relay.stream.enacast-cloud.com:30334/radiomarcaburgosSD.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Marca Valladolid
+https://radiomarcavalladolid.streaming-pro.com:6106/radiomarca.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Aranda
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ARANDA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Ávila
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_AVILA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Bierzo
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_BIERZO.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Castilla
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_BURGOS.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER León
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LEON.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Medina
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_MEDINA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Miranda
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_MIRANDA_EBRO.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Palencia
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_PALENCIA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Peñafiel
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_PENAFIEL.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Salamanca
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_SALAMANCA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Segovia
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_SEGOVIA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Soria
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SORIA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Valladolid
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_VALLADOLID.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Zamora
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ZAMORA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Burgos
+https://atres-live.ondacero.es/live/delegaciones/oc/burgos/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero León
+https://atres-live.ondacero.es/live/delegaciones/oc/leon/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Medina
+https://server10.emitironline.com:8100/;
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Palencia
+https://atres-live.ondacero.es/live/delegaciones/oc/palencia/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Salamanca
+https://atres-live.ondacero.es/live/delegaciones/oc/salamanca/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Segovia
+https://atres-live.ondacero.es/live/delegaciones/oc/segovia/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Valladolid
+https://atres-live.ondacero.es/live/delegaciones/oc/valladolid/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Zamora
+https://atres-live.ondacero.es/live/delegaciones/oc/zamora/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", LOS40 León
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ASO_LEON.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Europa FM Medina
+https://server10.emitironline.com:8102/;
+
+#EXTINF:-1  group-title=\"Unknown\", esRadio Castilla y León
+https://libertaddigital-radio-live4.flumotion.com/libertaddigital/ld-live4-med.aac
+
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Oro
+http://185.23.192.118:8004/;stream.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Nerja
+https://online.vibacomunicacion.com:9974/stream
+
+#EXTINF:-1  group-title=\"Unknown\", SportDirect Radio
+https://streaming12.elitecomunicacion.es:8036/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Ciudad Roquetas
+https://broadcast.radioponiente.org:8040/;.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Central FM
+https://s29.myradiostream.com/4922/listen.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Mencía Radio
+https://streaming12.elitecomunicacion.es:8146/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Loja Radio
+https://stream.radiofutura.es:8090/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Arcos
+https://streaming2.elitecomunicacion.es:8098/stream?type=.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Chocolate FM
+https://streaming2.elitecomunicacion.es:8082/live.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Granada FM
+https://streaming2.elitecomunicacion.es:8028/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Decibelia FM
+https://streaming.shoutcast.com/decibelia
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Poniente
+https://broadcast.radioponiente.org:8036/;
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Luz Dalías
+https://broadcast.radioponiente.org:8034/;.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", La Mega Málaga
+https://streaming2.elitecomunicacion.es:8220//stream?type=.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Salobreña
+https://streaming2.elitecomunicacion.es:8078/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Almaina
+https://radiobot.radioslibres.info/listen/radio_almaina/radio.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Martos
+https://streaming2.elitecomunicacion.es:8234/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Cadena Luna
+https://radio.almunecar360.com:8100/radio
+
+#EXTINF:-1  group-title=\"Unknown\", La Más FM Almuñecar
+https://streaming2.elitecomunicacion.es:8142/stream
+
+#EXTINF:-1  group-title=\"Unknown\", La Mega FM Costa Tropical
+https://streaming12.elitecomunicacion.es:8642/stream
+
+
+#EXTINF:-1  group-title=\"Unknown\", Cadena Dial Arahal
+https://playerservices.streamtheworld.com/api/livestream-redirect/DIAL_ASO_MORON.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Radiolé Costa de la Luz
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE_ASO_COSTA_LUZ.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Nostalgia FM
+https://azura.abcorp.es/radio/8040/live
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cádiz Radio
+https://ondacadiztv.es:30443/ocr/directo/icecast.audio
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Planeta
+https://radioplaneta.emitironline.com
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Sierra
+https://srv7031.dns-lcinternet.com/8050/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Gozadera FM
+https://azura.abcorp.es/radio/8030/live
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Puerto
+https://enacast.com/radiopuerto/streams/HD
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Capital
+https://server1.radiocast.es/listen/onda_capital/capitalweb
+
+#EXTINF:-1  group-title=\"Unknown\", La Fresca FM
+https://stream.produccionesdale.com/listen/lafresca/altacalidad
+
+#EXTINF:-1  group-title=\"Unknown\", Radio La Isla
+https://server10.emitironline.com:30132/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Candil Radio
+https://candilradio.com/liveradio/candil/live.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Rociana del Condado
+https://streaming.radiorociana.com/;stream.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", ACTIVA 96.5 MHZ ITUZAINGO
+https://server4.hostradios.com:7089/stream.aac
+
+#EXTINF:-1  group-title=\"Unknown\", Chipi radio
+http://streaming.escuchanosonline.com:8224/
+
+#EXTINF:-1  group-title=\"Unknown\", Cadena SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Cadena SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT1.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Cadena SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT2.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero
+https://atres-live.ondacero.es/live/ondacero/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero
+https://atres-live.ondacero.es/live/ondaceroeventos1/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Nacional
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", esRadio
+https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.aac
+
+#EXTINF:-1  group-title=\"Unknown\", esRadio
+https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Radio 5 RNE
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r5_madrid_main.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Marca
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", RAC1
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", RAC1
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_MES_1.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Catalunya Ràdio
+https://directes-radio-int.3catdirectes.cat/live-content/catalunya-radio-hls/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Euskadi Irratia
+https://multimedia.eitb.eus/live-content/euskadirratia-hls/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Galega
+https://crtvg-radiogalega-hls.flumotion.cloud/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", LOS40
+https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Cadena 100
+https://cadena100-cope.flumotion.com/chunks.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Cadena Dial
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Rock FM
+https://rockfm-cope.flumotion.com/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Radio 3 RNE
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r3_main.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", LOS40 Classic
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Kiss FM
+https://kissfm.kissfmradio.cires21.com/kissfm.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Radiolé
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Flaix FM
+https://stream.flaixfm.cat/icecast
+
+#EXTINF:-1  group-title=\"Unknown\", Flaixbac
+https://stream.flaixbac.cat/icecast
+
+#EXTINF:-1  group-title=\"Unknown\", RAC 105
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAC105AAC.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", RAC 105
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAC105.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Radio TeleTaxi
+https://radiott-web.streaming-pro.com:6103/radiott.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Hit FM
+https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", MegaStar FM
+https://megastar-cope.flumotion.com/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", LOS40 Dance
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", LOS40 Urban
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Clásica RNE
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r2_main.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Dial Baladas
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_03.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Dial Latino
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_02AAC_SC
+
+#EXTINF:-1  group-title=\"Unknown\", Loca FM Urban
+https://s1.we4stream.com:2020/stream/locaurban
+
+#EXTINF:-1  group-title=\"Unknown\", Loca FM Dance
+https://s2.we4stream.com/listen/loca_dance/live
+
+#EXTINF:-1  group-title=\"Unknown\", Loca FM Remember
+https://s2.we4stream.com/listen/loca_remember/live
+
+#EXTINF:-1  group-title=\"Unknown\", Loca FM Hard
+https://s2.we4stream.com/listen/loca_hard/live
+
+#EXTINF:-1  group-title=\"Unknown\", Loca FM House
+https://s2.we4stream.com/listen/loca_house/live
+
+#EXTINF:-1  group-title=\"Unknown\", Loca FM Chill Out
+https://s2.we4stream.com/listen/loca_chill_out/live
+
+#EXTINF:-1  group-title=\"Unknown\", Loca FM Tech House
+https://s2.we4stream.com/listen/loca_tech_house/live
+
+#EXTINF:-1  group-title=\"Unknown\", Loca FM Trance
+https://s2.we4stream.com/listen/loca_trance/live
+
+#EXTINF:-1  group-title=\"Unknown\", Loca FM Techno
+https://s2.we4stream.com/listen/loca_techo/live
+
+#EXTINF:-1  group-title=\"Unknown\", Loca FM Big Room
+https://s2.we4stream.com/listen/loca_big_room/live
+
+#EXTINF:-1  group-title=\"Unknown\", Loca FM Deep House
+https://s2.we4stream.com/listen/loca_deep_house/live
+
+#EXTINF:-1  group-title=\"Unknown\", Loca FM Sessions
+https://s2.we4stream.com/listen/loca_sessions/live
+
+#EXTINF:-1  group-title=\"Unknown\", Loca FM Ambient
+https://s2.we4stream.com/listen/loca_ambient/live
+
+#EXTINF:-1  group-title=\"Unknown\", Loca FM Loca 80's
+https://s2.we4stream.com/listen/loca_80s/live
+
+#EXTINF:-1  group-title=\"Unknown\", Loca FM Loca 90's
+https://s2.we4stream.com/listen/loca_90s_/live
+
+#EXTINF:-1  group-title=\"Unknown\", Loca FM Melodic House
+https://s2.we4stream.com/listen/loca_melodic_house/live
+
+#EXTINF:-1  group-title=\"Unknown\", Loca FM Melodic Techno
+https://s2.we4stream.com/listen/loca_melodic_techno/live
+
+#EXTINF:-1  group-title=\"Unknown\", Loca FM Hard Techno
+https://s2.we4stream.com/listen/loca_hard_techno/live
+
+#EXTINF:-1  group-title=\"Unknown\", Loca FM Industrial
+https://s2.we4stream.com/listen/loca_industrial/live
+
+#EXTINF:-1  group-title=\"Unknown\", Loca FM Drum&Bass
+https://s2.we4stream.com/listen/loca_drum__bass/live
+
+#EXTINF:-1  group-title=\"Unknown\", La Urban Radio
+https://st1.urbanrevolution.es:8443/laurbanfm.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", MariskalRock Radio
+https://media.profesionalhosting.com:8047/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Sevilla FC Radio
+https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Babyradio
+https://sd396babyradio1.dns-lcinternet.com/8002/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Babyradio LatinoAmérica
+https://sd396babyradio1.dns-lcinternet.com/8004/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Babyradio Cuentos Infantiles
+https://sd396babyradio1.dns-lcinternet.com/8006/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Nacional Andalucía
+https://dispatcher.rndfnk.com/crtve/rne1/and/mp3/high
+
+#EXTINF:-1  group-title=\"Unknown\", Radio 5 Andalucía
+https://dispatcher.rndfnk.com/crtve/rne5/sev/mp3/high
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Marca Sevilla
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_SEVILLA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Algeciras
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALGECIRAS.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Almería
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ALMERIA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Andalucía Centro
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ESTEPA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Andújar
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ANDUJAR.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Antequera
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ANTEQUERA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Axarquía
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_AXARQUIA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Baza
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_BAZA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Cádiz
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CADIZ.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Coca Ser Ronda
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_RONDA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Córdoba
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CORDOBA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Costa de la Luz
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_COSTA_LUZ.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Granada
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_GRANADA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Guadix
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_GUADIX.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Huelva
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_HUELVA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Jaén
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_JAEN.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Jerez
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_JEREZ.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Jódar
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_JODAR.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Levante
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LEVANTE.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Linares
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_LINARES.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Lucena
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LUCENA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Luna
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LUNA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Málaga
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MALAGA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Marbella Costa del Sol
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MARBELLA_COSTA_SOL.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Morón
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_MORON.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Motril
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_MOTRIL.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Palma
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_PALMA_DEL_RIO.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Poniente
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_PONIENTE.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Roquetas
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ROQUETAS.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Sevilla
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SEVILLA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Úbeda
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_UBEDAAAC.aac
+
+#EXTINF:-1  group-title=\"Unknown\", COPE Axarquía
+https://online.vibacomunicacion.com:9986/stream
+
+#EXTINF:-1  group-title=\"Unknown\", COPE Marbella
+https://sonic.sistemahost.es/8236/stream
+
+#EXTINF:-1  group-title=\"Unknown\", COPE Ronda
+https://securestreams5.autopo.st:1869/;?type=http&nocache=347&url=copesedes/ronda.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Algeciras
+https://atres-live.ondacero.es/live/delegaciones/oc/algeciras/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Almería
+https://atres-live.ondacero.es/live/delegaciones/oc/almeria/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Baza
+https://atres-live.ondacero.es/live/delegaciones/oc/baza/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Cádiz
+https://atres-live.ondacero.es/live/delegaciones/oc/cadiz/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Córdoba
+https://atres-live.ondacero.es/live/delegaciones/oc/cordoba/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero El Ejido
+https://atres-live.ondacero.es/live/delegaciones/oc/elejido/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Granada
+https://atres-live.ondacero.es/live/delegaciones/oc/granada/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Huelva
+https://atres-live.ondacero.es/live/delegaciones/oc/huelva/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Jaén
+https://atres-live.ondacero.es/live/delegaciones/oc/jaen/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Jerez de la Frontera
+https://atres-live.ondacero.es/live/delegaciones/oc/jerez/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Marbella
+https://atres-live.ondacero.es/live/delegaciones/oc/marbella/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Motril
+https://atres-live.ondacero.es/live/delegaciones/oc/motril/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Málaga
+https://atres-live.ondacero.es/live/delegaciones/oc/malaga/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Sevilla
+https://atres-live.ondacero.es/live/delegaciones/oc/sevilla/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", esRadio Granada
+https://azura.abcorp.es/listen/esradio_granada/radio.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", esRadio Jaén
+https://azura.abcorp.es/listen/esradio_jaen/radio.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", esRadio Málaga
+https://azura.abcorp.es/listen/esradio_malaga/radio.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", LOS40 Almería
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ASO_ALMERIA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", LOS40 Guadix
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ASO_GUADIX.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", LOS40 Indalo
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ASO_INDALO.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", LOS40 Poniente
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ASO_PONIENTE.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Milenio 101.5
+https://streaming.radiosenlinea.com.ar/8476/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Popular
+https://c3ny1.mediainbox.net/popular.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Rivadavia AM 630
+https://21933.live.streamtheworld.com/RIVADAVIAAAC.aac
 
 
