@@ -1,117 +1,220 @@
 #EXTM3U
+#EXTINF:-1  group-title=\"Unknown\", Onda Ocio
+https://radio.ondaocio.es:8300/ondaocioweb
 
+#EXTINF:-1  group-title=\"Unknown\", Radio Nacional Melilla
+https://rnelivestream.rtve.es/rne1/mel/master.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", AAA
-https://playerservices.streamtheworld.com/api/livestream-redirect/SER_JACA.mp3
+#EXTINF:-1  group-title=\"Unknown\", Radio 5 Melilla
+https://rnelivestream.rtve.es/rne5/mel/master.m3u8
 
+#EXTINF:-1  group-title=\"Unknown\", SER Melilla
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MELILLA.mp3
 
-#EXTINF:-1  group-title=\"Unknown\", Latina
-http://streaming.latina101.com.ar:8080/RadioLatina
+#EXTINF:-1  group-title=\"Unknown\", Euskadi Irratia
+https://multimedia.eitb.eus/live-content/euskadirratia-hls/master.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Aspen
-http://playerservices.streamtheworld.com/api/livestream-redirect/ASPENAAC_SC
+#EXTINF:-1  group-title=\"Unknown\", Radio Euskadi
+https://multimedia.eitb.eus/live-content/radioeuskadi-hls/master.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Revolución
-http://streaming01.shockmedia.com.ar:9878/stream
+#EXTINF:-1  group-title=\"Unknown\", EITB Musika
+https://multimedia.eitb.eus/live-content/eitbmusika-hls/master.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", 99.1
-http://01.solumedia.com.ar:8178/aac
+#EXTINF:-1  group-title=\"Unknown\", EITB Euskal Kantak
+https://multimedia.eitb.eus/live-content/eitbeuskalkantak-hls/master.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", 221
-http://01.solumedia.com.ar:8612/stream
+#EXTINF:-1  group-title=\"Unknown\", Radio Vitoria
+https://multimedia.eitb.eus/live-content/radiovitoria-hls/master.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Classique
-http://01.solumedia.com.ar:8562/;stream.nsv
+#EXTINF:-1  group-title=\"Unknown\", Gaztea
+https://multimedia.eitb.eus/live-content/gaztea-hls/master.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Cantilo
-http://radio.solumedia.com.ar:7231/stream
+#EXTINF:-1  group-title=\"Unknown\", Radio Nacional País Vasco
+https://dispatcher.rndfnk.com/crtve/rne1/eus/mp3/high
 
-#EXTINF:-1  group-title=\"Unknown\", FMQ
-http://streamlky.alsolnet.com:443/radiofmq
+#EXTINF:-1  group-title=\"Unknown\", Radio 5 País Vasco
+https://dispatcher.rndfnk.com/crtve/rne5/vit/mp3/high
 
-#EXTINF:-1  group-title=\"Unknown\", LU6
-http://173.255.205.241:9090/;
+#EXTINF:-1  group-title=\"Unknown\", Radio Marca Bilbao
+https://server8.emitironline.com:18475/stream
 
-#EXTINF:-1  group-title=\"Unknown\", Estación Vinilo
-http://173.255.205.241:1127/;
+#EXTINF:-1  group-title=\"Unknown\", Radio Marca Donostia
+https://marca-sansebastian.streaming-pro.com:6101/live
 
-#EXTINF:-1  group-title=\"Unknown\", La Red
-http://streaming01.shockmedia.com.ar:9926/stream
+#EXTINF:-1  group-title=\"Unknown\", Radio Marca Vitoria
+https://control.streaming-pro.com:6014/marcavitoria.mp3
 
-#EXTINF:-1  group-title=\"Unknown\", KLA
-http://streamconex.com:8104/;stream
+#EXTINF:-1  group-title=\"Unknown\", SER Bilbao
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_BILBAO.mp3
 
-#EXTINF:-1  group-title=\"Unknown\", Atlántica Latina
-http://173.255.205.241:7070/;
+#EXTINF:-1  group-title=\"Unknown\", SER Eibar
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_EIBAR.mp3
 
-#EXTINF:-1  group-title=\"Unknown\", Residencias
-http://01.solumedia.com.ar:8592/stream
+#EXTINF:-1  group-title=\"Unknown\", SER Irun
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_IRUN.mp3
 
-#EXTINF:-1  group-title=\"Unknown\", De La Bahía
-http://icecast.hostingbahia.com.ar:8010/live
+#EXTINF:-1  group-title=\"Unknown\", SER San Sebastián
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SAN_SEBASTIAN.mp3
 
-#EXTINF:-1  group-title=\"Unknown\", La Brújula 24
-http://icecast.hostingbahia.com.ar:8020/live
+#EXTINF:-1  group-title=\"Unknown\", SER Vitoria
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_VITORIA.mp3
 
-#EXTINF:-1  group-title=\"Unknown\", NQP
-http://cdn.instream.audio:8111/stream
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Bilbao
+https://atres-live.ondacero.es/live/delegaciones/oc/bilbao/master.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Norte
-http://icecast.hostingbahia.com.ar:8002/live
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero San Sebastián
+https://atres-live.ondacero.es/live/delegaciones/oc/sansebastian/master.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Hit Music
-http://server1.veemesoft.com.ar:9382/;
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Vitoria
+https://atres-live.ondacero.es/live/delegaciones/oc/vitoria/master.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Pop
-http://server4.veemesoft.com.ar:26952/;
+#EXTINF:-1  group-title=\"Unknown\", Cadena 100 Gipuzkoa
+https://server8.emitironline.com:18196/stream
 
-#EXTINF:-1  group-title=\"Unknown\", Fenix
-http://streaming01.shockmedia.com.ar:9628/stream
+#EXTINF:-1  group-title=\"Unknown\", Vinilo FM
+https://radio.vinilofm.es/radio/8000/bizkaia.mp3
 
-#EXTINF:-1  group-title=\"Unknown\", LU32
-http://s1.radiosnethosting.com:9966/;s.mp3/;stream.mp3
+#EXTINF:-1  group-title=\"Unknown\", Radio 7
+https://radio7.streaming-pro.com:6146/radio7.mp3
 
-#EXTINF:-1  group-title=\"Unknown\", LU36
-http://radio.solumedia.com.ar:8014/stream
+#EXTINF:-1  group-title=\"Unknown\", Bizkaia Irratia
+https://stream.mediasector.es/radio/8230/bizkaiairratia.mp3
 
-#EXTINF:-1  group-title=\"Unknown\", Dale
-http://01.solumedia.com.ar:8238/stream
+#EXTINF:-1  group-title=\"Unknown\", Bizkaia Irratia
+https://server5.mediasector.es/listen/bizkaia-irratia-musika/radio.mp3
 
-#EXTINF:-1  group-title=\"Unknown\", AM 1210 Radio Las Flores
-http://streaming1.locucionar.com:13402/stream
+#EXTINF:-1  group-title=\"Unknown\", Formula Hit
+https://sonic.sistemahost.es/8176/stream;.mp3
 
-#EXTINF:-1  group-title=\"Unknown\", Flash 99.9
-http://s1.radiosnethosting.com:9858/;stream.nsv&type=mp3
+#EXTINF:-1  group-title=\"Unknown\", Radio Donosti
+https://cdn-peer012.streaming-pro.com:6139/radiodonosti.mp3
 
-#EXTINF:-1  group-title=\"Unknown\", T20
-http://radio.solumedia.com.ar:8260/stream
+#EXTINF:-1  group-title=\"Unknown\", Bilbo Hiria Irratia
+https://server8.emitironline.com:18392/stream
 
-#EXTINF:-1  group-title=\"Unknown\", Cielo
-http://streamall.alsolnet.com:443/radiocielo
+#EXTINF:-1  group-title=\"Unknown\", Mozoilo Irratia
+https://a10.asurahosting.com:9060/radio.mp3
 
-#EXTINF:-1  group-title=\"Unknown\", Simple
-http://198.50.206.239:8022/;
+#EXTINF:-1  group-title=\"Unknown\", Activate FM
+https://streaming12.elitecomunicacion.es:8085/stream
 
-#EXTINF:-1  group-title=\"Unknown\", 
-http://s2.radiosnethosting.com:9750/;
+#EXTINF:-1  group-title=\"Unknown\", Radio Gorbea
+https://cdn-peer021.streaming-pro.com:6135/radiogorbea.mp3
 
-#EXTINF:-1  group-title=\"Unknown\", FM Full 94.9
-http://nvradios.com:9396/;
+#EXTINF:-1  group-title=\"Unknown\", Durango Irratia
+https://durangoirratia.streaming-pro.com:6006/durangoirratia.mp3
 
-#EXTINF:-1  group-title=\"Unknown\", Radio María
-http://dreamsiteradiocp.com:8004/
+#EXTINF:-1  group-title=\"Unknown\", Habla Radio
+https://s33.myradiostream.com/15294/;stream.mp3
 
-#EXTINF:-1  group-title=\"Unknown\", Shopping
-http://suenas.net:8090/shoppingclassics
+#EXTINF:-1  group-title=\"Unknown\", RPA
+https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/radio/index.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Radio de Folclore
-http://streaming01.shockmedia.com.ar:9910/;
+#EXTINF:-1  group-title=\"Unknown\", Radio Nacional Asturias
+https://dispatcher.rndfnk.com/crtve/rne1/ast/mp3/high
 
-#EXTINF:-1  group-title=\"Unknown\", Pobre Jonny
-https://stream4.suenas.net/pobrejohnny
+#EXTINF:-1  group-title=\"Unknown\", Radio 5 Asturias
+https://dispatcher.rndfnk.com/crtve/rne5/ast/mp3/high
 
-#EXTINF:-1  group-title=\"Unknown\", Radio 2
-http://radio2.radio.rosario3.com:8000/prueba2
+#EXTINF:-1  group-title=\"Unknown\", Radio Marca Asturias
+https://streaming.enacast.com/radiomarcaasturiasHD.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Asturias
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ASTURIAS.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Avilés
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_AVILES.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Gijón
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_GIJON.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Cangas del Narcea
+https://atres-live.ondacero.es/live/delegaciones/oc/cangasdenarcea/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Gijón
+https://atres-live.ondacero.es/live/delegaciones/oc/gijon/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Infiesto
+https://atres-live.ondacero.es/live/delegaciones/oc/infiesto/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Luarca
+https://atres-live.ondacero.es/live/delegaciones/oc/luarca/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Oviedo
+https://atres-live.ondacero.es/live/delegaciones/oc/oviedo/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", esRadio Asturias
+https://server9.emitironline.com:8822/radio
+
+#EXTINF:-1  group-title=\"Unknown\", Carrusel FM
+https://server10.emitironline.com:8921/radio?.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Master FM Asturias
+https://radios.lamaster.es:8000/asturias
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Ujo
+https://51551a56-d200-46f7-91c8-36c07a837e44.clouding.host:8000/radio
+
+#EXTINF:-1  group-title=\"Unknown\", Xtrema FM
+https://server1.radiocast.es/listen/xtrema_fm/xtremafm
+
+#EXTINF:-1  group-title=\"Unknown\", La Mega FM Asturias
+https://broadcast.radioponiente.org:8032/;.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", Guateque FM
+https://online.vibacomunicacion.com:5066/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Líder Asturias
+https://server8.emitironline.com:18462/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Vinx FM
+https://server1.radiocast.es/listen/vinxfm/low
+
+#EXTINF:-1  group-title=\"Unknown\", La Cheverisima Radio
+https://samuel.i-radio.co:9000/lacheverisima
+
+#EXTINF:-1  group-title=\"Unknown\", Radio Nacional Murcia
+https://dispatcher.rndfnk.com/crtve/rne1/mur/mp3/high
+
+#EXTINF:-1  group-title=\"Unknown\", Radio 5 Murcia
+https://dispatcher.rndfnk.com/crtve/rne5/mur/mp3/high
+
+#EXTINF:-1  group-title=\"Unknown\", SER Arco Norte
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ARCO_NORTE.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Cartagena
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CARTAGENA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Lorca
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_LORCA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", SER Murcia
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MURCIA.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", COPE Radio Sureste
+https://sonic.mediatelekom.net/8538/live
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Cartagena
+https://atres-live.ondacero.es/live/delegaciones/oc/cartagena/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Murcia
+https://atres-live.ondacero.es/live/delegaciones/oc/murcia/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Cero Yecla
+https://atres-live.ondacero.es/live/delegaciones/oc/yecla/master.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Regional de Murcia
+https://crmlive.redctnet.es/liveedge/orm/orm/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Onda Regional Música
+https://crmlive.redctnet.es/liveedge/orm/ormmusical/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", esRadio Murcia
+https://sonic.mediatelekom.net/8274/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Wifon FM
+https://betelgeuse.nucast.co.uk:8044/wifonfm
+
 
 
 
