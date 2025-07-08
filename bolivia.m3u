@@ -5,46 +5,46 @@ https://seo.tv.bo/tv/LIpSEO-TV-8.m3u8
 #EXTINF:-1  group-title=\"Unknown\", BabyFirst Spanish
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/manifest.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Bolivia TV 7.2 (720p)
+#EXTINF:-1  group-title=\"Unknown\", Bolivia TV 7.2 
 https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Bolivisión LPZ (720p)
+#EXTINF:-1  group-title=\"Unknown\", Bolivisión LPZ 
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1  group-title=\"Unknown\", Canal 29 TVA
 https://play.agenciastreaming.com:19360/8160/8160.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Caribbean Advantage TV (1080p) [Not 24/7]
+#EXTINF:-1  group-title=\"Unknown\", Caribbean Advantage TV 
 https://video2.getstreamhosting.com:19360/8216/8216.m3u8
 
 #EXTINF:-1  group-title=\"Unknown\", CGTN Español (1080p)
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Coral TV (480p)
+#EXTINF:-1  group-title=\"Unknown\", Coral TV 
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
 
 #EXTINF:-1  group-title=\"Unknown\", CTV
 https://live.ctvbolivia.com/hls/ctv.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", DW Español (1080p)
+#EXTINF:-1  group-title=\"Unknown\", DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Enlace (720p)
+#EXTINF:-1  group-title=\"Unknown\", Enlace 
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", EWTN el Canal Católico (720p) [Not 24/7]
+#EXTINF:-1  group-title=\"Unknown\", EWTN el Canal Católico 
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", F10 HD [Geo-blocked]
+#EXTINF:-1  group-title=\"Unknown\", F10 HD 
 https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", FAP TV (480p)
+#EXTINF:-1  group-title=\"Unknown\", FAP TV 
 https://nd106.republicaservers.com/hls/c7284/index.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", France 24 Español (1080p)
+#EXTINF:-1  group-title=\"Unknown\", France 24 Español 
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Frecuencia Musical TV [Not 24/7]
+#EXTINF:-1  group-title=\"Unknown\", Frecuencia Musical TV 
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
 #EXTINF:-1  group-title=\"Unknown\", Gigavision
@@ -65,7 +65,7 @@ https://play.agenciastreaming.com:19360/8122/8122.m3u8
 #EXTINF:-1  group-title=\"Unknown\", National Geographic Latin America
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Nuevo Tiempo (720p) [Not 24/7]
+#EXTINF:-1  group-title=\"Unknown\", Nuevo Tiempo 
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 
 #EXTINF:-1  group-title=\"Unknown\", Palenque TV
@@ -74,22 +74,22 @@ https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
 #EXTINF:-1  group-title=\"Unknown\", PAT La Paz
 https://www.redpat.tv/proxylpz/index.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Platzi TV (1080p)
+#EXTINF:-1  group-title=\"Unknown\", Platzi TV 
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Plous TV (1080p)
+#EXTINF:-1  group-title=\"Unknown\", Plous TV 
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", PRIDEtv LATAM (720p)
+#EXTINF:-1  group-title=\"Unknown\", PRIDEtv LATAM 
 https://panel.miplay.cl:8082/spectrumchannel/index.m3u8
 
 #EXTINF:-1  group-title=\"Unknown\", 
 https://signal.suyaitv.cl/live/26/playlist.m3u8?username=ZZDemoIPTVGH&password=9PcdCnFxUe
 
-#EXTINF:-1  group-title=\"Unknown\", RCN Más (1080p)
+#EXTINF:-1  group-title=\"Unknown\", RCN Más 
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Red CCTV (480p)
+#EXTINF:-1  group-title=\"Unknown\", Red CCTV 
 https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 
 #EXTINF:-1  group-title=\"Unknown\", RTP
@@ -101,31 +101,30 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.
 #EXTINF:-1  group-title=\"Unknown\", 
 https://signal.suyaitv.cl/live/35/playlist.m3u8?username=ZZDemoIPTVGH&password=9PcdCnFxUe
 
-#EXTINF:-1  group-title=\"Unknown\", TDT Multimedia (720p)
+#EXTINF:-1  group-title=\"Unknown\", TDT Multimedia 
 https://video01.kshost.com.br:4443/juan6318/juan6318/playlist.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Tevex (720p) [Not 24/7]
+#EXTINF:-1  group-title=\"Unknown\", Tevex 
 https://v4.tustreaming.cl/tevexinter/index.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", UCL (720p)
+#EXTINF:-1  group-title=\"Unknown\", UCL 
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Univalle Televisión (1080p)
+#EXTINF:-1  group-title=\"Unknown\", Univalle Televisión
 https://master.tucableip.com/univalletv/playlist.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", UPP TV/Bolivisión SCZ (720p) [Not 24/7]
+#EXTINF:-1  group-title=\"Unknown\", UPP TV/Bolivisión SCZ 
 https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1  group-title=\"Unknown\", USA Network Latin America
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Venevisión Internacional (720p)
+#EXTINF:-1  group-title=\"Unknown\", Venevisión Internacional 
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Vive Kanal D Drama (1080p)
+#EXTINF:-1  group-title=\"Unknown\", Vive Kanal D Drama 
 https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", VTV Canal 17 (720p) [Not 24/7]
+#EXTINF:-1  group-title=\"Unknown\", VTV Canal 17 
 https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8
-
 
