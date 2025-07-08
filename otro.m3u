@@ -1,1 +1,267 @@
-gfd
+#EXTINF:-1  group-title=\"Unknown\", Первый Ярославский
+https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Прима (1080p)
+https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Просвещение (540p) [Geo-blocked]
+https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Радость моя
+https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 
+https://streaming.skynetconnect.online/live/211.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Россия РТР
+https://streaming.televizor-24-tochka.ru/live/211.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", РТР Планета Азия
+https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363
+
+#EXTINF:-1  group-title=\"Unknown\", РТР Планета Евро
+https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
+
+#EXTINF:-1  group-title=\"Unknown\", РТР Планета СНГ
+https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f
+
+#EXTINF:-1  group-title=\"Unknown\", РТР Планета США
+https://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a
+
+#EXTINF:-1  group-title=\"Unknown\", С1 (Сургут) (1080p) [Not 24/7]
+https://sitv.ru/hls/stv.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Салям (Уфа) (576p)
+https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Самара 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Север (Нарьян-Мар) (1080p)
+https://live2.mediacdn.ru/sr1/sever/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Сибирь 24 (Красноярск)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Сибирь 24 (Новосибирск)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Смотрим
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Соловьев LIVE
+https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+
+#EXTINF:-1  group-title=\"Unknown\", Союз (576p)
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", СПАС (576p)
+https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", СТБ (720p)
+https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Тамыр (Уфа) (576p)
+https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", ТВК 24 (576p)
+https://air.tvk6.ru/tvk24/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Телеканал 86 (Сургут) (1080p) [Not 24/7]
+https://sitv.ru/hls/s86.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Телеканал Краснодар
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Телплюс ТВ (Астрахань) (360p) [Not 24/7]
+https://streaming.astrakhan.ru/telplushd/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Тернопіль 1 (720p)
+https://ott.columbus.te.ua/ternopil1/index.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", ТК Алмазный край (576p)
+https://stream.almaz-media.tv:8080/hls/576.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", ТНВ-Планета (Казань)
+https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Три Ангела (720p)
+https://hls.tv.3angels.ru/stream.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Тюменское время
+https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 
+https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Урал 24 (Челябинск)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Хузур ТВ (1080p) [Not 24/7]
+https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Эхо TV (Рязань) (576p) [Not 24/7]
+https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Ювелирочка ТВ (576p)
+https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", Югра
+https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 上虞1新闻综合 (720p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 上虞3新商都 (720p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 上虞經濟文化 (720p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 中天新聞台 (1080p)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 余姚姚江文化 (576p)
+https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 余姚新闻综合 (576p)
+https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 兴隆综合
+https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 农安新闻综合 [Geo-blocked]
+https://stream2.jlntv.cn/naxw/sd/live.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 前郭综合 [Geo-blocked]
+https://stream2.jlntv.cn/qg/sd/live.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 半岛新闻 (1080p)
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 吉林市新闻综合 [Geo-blocked]
+https://stream2.jlntv.cn/jilin1/sd/live.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 唯心電視 (480p)
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 四平新闻综合 [Geo-blocked]
+https://stream2.jlntv.cn/sptv/sd/live.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 天才衝衝衝 (1080p)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 嵊州综合 (720p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 延边新闻综合 [Geo-blocked]
+https://stream2.jlntv.cn/jlyb/sd/live.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 新昌休闲影视 (1080p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 新昌新聞綜合 (1080p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 東森購物60 (480p)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 松原新闻综合 [Geo-blocked]
+https://stream2.jlntv.cn/sytv/sd/live.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 武进新闻 (576p) [Not 24/7]
+https://live.wjyanghu.com/live/CH1.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 武进生活 (576p) [Not 24/7]
+https://live.wjyanghu.com/live/CH2.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 河源公共 (540p)
+https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 河源综合 (540p)
+https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 浙江教科
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 浙江民生
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 浙江经济
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 白城新闻综合 [Geo-blocked]
+https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 白山新闻综合 [Geo-blocked]
+https://stream2.jlntv.cn/baishan1/sd/live.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 立法會直播 (Legislative Council Live) (720p)
+https://live3.tdm.com.mo/tv/ch21.live/playlist.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 立法院IVOD直播交通委員會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live6/hls-cl-tv/index.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 立法院IVOD直播內政委員會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live7/hls-cl-tv/index.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 立法院IVOD直播司法及法制委員會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live9/hls-cl-tv/index.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 立法院IVOD直播外交及國防委員會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live8/hls-cl-tv/index.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 立法院IVOD直播教育及文化委員會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live4/hls-cl-tv/index.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 立法院IVOD直播朝野協商 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live10/hls-cl-tv/index.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 立法院IVOD直播社會福利及衛生環境委員會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live3/hls-cl-tv/index.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 立法院IVOD直播經濟委員會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/index.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 立法院IVOD直播財政委員會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live2/hls-cl-tv/index.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 立法院IVOD直播院會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 红牛REDBULL TV (720p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 萧山新闻综合 (720p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 蕭山生活頻道 (720p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 辽源新闻综合 [Geo-blocked]
+https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 通化新闻 [Geo-blocked]
+https://stream2.jlntv.cn/tonghua1/sd/live.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 长春综合 [Geo-blocked]
+https://stream2.jlntv.cn/jlcc/sd/live.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 集安综合 [Geo-blocked]
+https://stream2.jlntv.cn/ja/sd/live.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", 餘姚姚江文化 (576p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
+
