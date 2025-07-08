@@ -29,6 +29,12 @@ https://www.youtube.com/c/LaNacionMas/live
 #EXTINF:-1  group-title=\"Unknown\", Canal E 
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8 
 
+
+#EXTINF:-1  group-title=\"Unknown\", Music top 
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
+
+
+
 #EXTINF:-1  group-title=\"Unknown\", Net TV 
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8 
 
