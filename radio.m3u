@@ -1,3 +1,67 @@
 #EXTM3U
 #EXTINF:-1  group-title=\"Unknown\", Latina
 http://streaming.latina101.com.ar:8080/RadioLatina
+
+#EXTINF:-1  group-title=\"Unknown\", Aspen
+http://playerservices.streamtheworld.com/api/livestream-redirect/ASPENAAC_SC
+
+#EXTINF:-1  group-title=\"Unknown\", Revolución
+http://streaming01.shockmedia.com.ar:9878/stream
+
+#EXTINF:-1  group-title=\"Unknown\", 99.1
+http://01.solumedia.com.ar:8178/aac
+
+#EXTINF:-1  group-title=\"Unknown\", 221
+http://01.solumedia.com.ar:8612/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Classique
+http://01.solumedia.com.ar:8562/;stream.nsv
+
+#EXTINF:-1  group-title=\"Unknown\", Cantilo
+http://radio.solumedia.com.ar:7231/stream
+
+#EXTINF:-1  group-title=\"Unknown\", FMQ
+http://streamlky.alsolnet.com:443/radiofmq
+
+#EXTINF:-1  group-title=\"Unknown\", LU6
+http://173.255.205.241:9090/;
+
+#EXTINF:-1  group-title=\"Unknown\", Estación Vinilo
+http://173.255.205.241:1127/;
+
+#EXTINF:-1  group-title=\"Unknown\", La Red
+http://streaming01.shockmedia.com.ar:9926/stream
+
+#EXTINF:-1  group-title=\"Unknown\", KLA
+http://streamconex.com:8104/;stream
+
+#EXTINF:-1  group-title=\"Unknown\", Atlántica Latina
+http://173.255.205.241:7070/;
+
+#EXTINF:-1  group-title=\"Unknown\", Residencias
+http://01.solumedia.com.ar:8592/stream
+
+#EXTINF:-1  group-title=\"Unknown\", De La Bahía
+http://icecast.hostingbahia.com.ar:8010/live
+
+#EXTINF:-1  group-title=\"Unknown\", La Brújula 24
+http://icecast.hostingbahia.com.ar:8020/live
+
+#EXTINF:-1  group-title=\"Unknown\", NQP
+http://cdn.instream.audio:8111/stream
+
+#EXTINF:-1  group-title=\"Unknown\", Norte
+http://icecast.hostingbahia.com.ar:8002/live
+
+#EXTINF:-1  group-title=\"Unknown\", Hit Music
+http://server1.veemesoft.com.ar:9382/;
+
+#EXTINF:-1  group-title=\"Unknown\", Pop
+http://server4.veemesoft.com.ar:26952/;
+
+#EXTINF:-1  group-title=\"Unknown\", Fenix
+http://streaming01.shockmedia.com.ar:9628/stream
+
+#EXTINF:-1  group-title=\"Unknown\", LU32
+http://s1.radiosnethosting.com:9966/;s.mp3/;stream.mp3
+
