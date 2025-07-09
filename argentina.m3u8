@@ -1,5 +1,16 @@
 #EXTM3U
 
+
+#EXTINF:-1  group-title=\"Unknown\", Catamarca RTV
+https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?D
+
+
+
+
+
+
+
+
 #EXTINF:-1  group-title=\"Unknown\", 1 TELEFE 
 https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master.m3u8
 
