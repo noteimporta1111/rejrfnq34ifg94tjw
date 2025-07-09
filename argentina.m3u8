@@ -124,13 +124,13 @@ https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 #EXTINF:-1  group-title=\"Unknown\", Canal 22 
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", San juan | Canal 34
+#EXTINF:-1  group-title=\"Unknown\", San juan | San juan
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Canal 79 La Costa 
+#EXTINF:-1  group-title=\"Unknown\", La costa | Canal 79
 https://streamconex.com:19360/lacosta/lacosta.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Canal 79 Santa Clara del Mar 
+#EXTINF:-1  group-title=\"Unknown\", Santa clara del mar | Canal 79
 https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
 
 #EXTINF:-1  group-title=\"Unknown\", Canal E 
@@ -142,7 +142,7 @@ https://vivo.solumedia.com:19360/celta/celta.m3u8
 #EXTINF:-1  group-title=\"Unknown\", CGTN Español 
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Chaco TV  
+#EXTINF:-1  group-title=\"Unknown\", Chaco | Chaco TV  
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 
 #EXTINF:-1  group-title=\"Unknown\", Chilecito TV 
@@ -318,28 +318,28 @@ https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8?PlaylistM3UC
 #EXTINF:-1  group-title=\"Unknown\", 5TV | AR
 https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  group-title=\"Unknown\", Aire de Santa Fe | AR
+#EXTINF:-1  group-title=\"Unknown\", Santa fe | Aire de Santa Fe
 https://redirector.dps.live/hls/airedesantafetv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  group-title=\"Unknown\", Antena 91 | AR
+#EXTINF:-1  group-title=\"Unknown\", Antena 91
 https://tuvideoonline.com.ar:3393/live/antena91live.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  group-title=\"Unknown\", Cadena 103 | AR
+#EXTINF:-1  group-title=\"Unknown\", Cadena 103
 https://streamlov.alsolnet.com/cadena103/live/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  group-title=\"Unknown\", Canal 11 de La Costa | AR
+#EXTINF:-1  group-title=\"Unknown\", La costa | Canal 11
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  group-title=\"Unknown\", Canal 12 Madryn TV | AR
+#EXTINF:-1  group-title=\"Unknown\", Madryn | Canal 12
 https://5f700d5b2c46f.streamlock.net:443/madryntv/madryntv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  group-title=\"Unknown\", Canal 13 La Rioja | AR
+#EXTINF:-1  group-title=\"Unknown\", La rioja | Canal 13
 https://stream.arcast.net:4443/mp/mp/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  group-title=\"Unknown\", Canal 2 Misiones | AR
+#EXTINF:-1  group-title=\"Unknown\", Misiones | Canal 2
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  group-title=\"Unknown\", Canal 21 Misiones | AR
+#EXTINF:-1  group-title=\"Unknown\", Misiones | Canal 21
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1  group-title=\"Unknown\", Canal 22 Buenos Aires | AR
