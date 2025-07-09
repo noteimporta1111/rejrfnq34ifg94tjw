@@ -1,6 +1,13 @@
 #EXTINF:-1  group-title=\"Unknown\", 1 Radio Colonia 550
 https://streaming1.hostingmontevideo.com:7019/
 
+
+
+#EXTINF:-1  group-title=\"Unknown\", 1 Radio FM 99 (RIO COLORADO)
+https://streaming2.locucionar.com/proxy/la99radio?mp=/stream
+
+
+
 #EXTINF:-1  group-title=\"Unknown\", 1 Radio PINK (Bahia Blanca)
 https://streaming3.locucionar.com/proxy/pink97?mp=/stream
 
