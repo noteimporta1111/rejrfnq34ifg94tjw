@@ -10,6 +10,15 @@ https://26593.live.streamtheworld.com/BLUE_FM_100_7AAC.aac?dist=onlineradiobox
 https://27693.live.streamtheworld.com/DISNEY_ARG_BA.mp3?dist=onlineradiobox
 
 
+#EXTINF:-1  group-title=\"Unknown\", 1 La popu
+https://playerservices.streamtheworld.com/api/livestream-redirect/lapopu.mp3
+
+#EXTINF:-1  group-title=\"Unknown\", 1 Somos radio
+https://ipanel.instream.audio:7000/stream
+
+
+
+
 
 
 #EXTINF:-1  group-title=\"Unknown\", 1 Radio 10
