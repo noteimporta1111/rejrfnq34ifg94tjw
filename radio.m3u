@@ -1,17 +1,8 @@
-#EXTM3U
-
-#EXTINF:-1  group-title=\"Unknown\", 1 Radio El faro (Rio colorado)
-http://genexservicios.com:8348/listen.pls
-
 #EXTINF:-1  group-title=\"Unknown\", 1 Radio Colonia 550
 https://streaming1.hostingmontevideo.com:7019/
 
 #EXTINF:-1  group-title=\"Unknown\", 1 Delta 90.3
 https://cdn.instream.audio/:9069/stream
-
-
-
-
 
 #EXTINF:-1  group-title=\"Unknown\", 1 Radio Conexion Web TV 
 https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8
@@ -30,11 +21,6 @@ https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 
 #EXTINF:-1  group-title=\"Unknown\", 1 Radio Yguazú TV 
 https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
-
-
-
-
-
 
 #EXTINF:-1  group-title=\"Unknown\", Onda Ocio
 https://radio.ondaocio.es:8300/ondaocioweb
@@ -336,10 +322,10 @@ https://rfienespagnol64k.ice.infomaniak.ch/rfienespagnol-64.mp3
 #EXTINF:-1  group-title=\"Unknown\", Jazz Radio Francia
 https://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3
 
-#EXTINF:-1  group-title=\"Unknown\", LOS40 Argentina
+#EXTINF:-1  group-title=\"Unknown\", 1 LOS40 Argentina
 https://frontend.radiohdvivo.com/los40/live?dist=los40-web-live_streaming_play
 
-#EXTINF:-1  group-title=\"Unknown\", FM Rock & Pop Argentina
+#EXTINF:-1  group-title=\"Unknown\", 1 FM Rock & Pop Argentina
 https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOP.mp3
 
 #EXTINF:-1  group-title=\"Unknown\", LOS40 México
@@ -1065,7 +1051,6 @@ https://stream20.usastreams.com/8154/stream
 #EXTINF:-1  group-title=\"Unknown\", Ràdio Cunit
 https://streaming.enacast.com/radiocunitHD.mp3
 
-
 #EXTINF:-1  group-title=\"Unknown\", Radio Espinosa Merindades
 https://srv7021.dns-lcinternet.com/8072/stream
 
@@ -1075,17 +1060,11 @@ https://s28.myradiostream.com:13006/listen.mp3
 #EXTINF:-1  group-title=\"Unknown\", Miranda FM
 https://srv7031.dns-lcinternet.com/8058/stream
 
-#EXTINF:-1  group-title=\"Unknown\", Mortal FM
-http://server2.20comunicacion.com:8044/stream
-
 #EXTINF:-1  group-title=\"Unknown\", Radio Guardo
 https://server10.emitironline.com:10654/radi
 
 #EXTINF:-1  group-title=\"Unknown\", Anda Onda Lerma
 https://topradio.uno:8006/stream
-
-#EXTINF:-1  group-title=\"Unknown\", Fabulosa FM
-https://cast2.vulnerados.es:8102/stream
 
 #EXTINF:-1  group-title=\"Unknown\", RAC1
 https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3
@@ -1294,7 +1273,6 @@ https://edge.mixlr.com/channel/dlyio
 #EXTINF:-1  group-title=\"Unknown\", Constantí Ràdio
 https://streaming.enacast.com/radioconstantiSD.mp3
 
-
 #EXTINF:-1  group-title=\"Unknown\", Radio Torredonjimeno
 https://streaming2.elitecomunicacion.es:8118/stream
 
@@ -1432,9 +1410,6 @@ https://dispatcher.rndfnk.com/crtve/rne5/ctb/mp3/high
 
 #EXTINF:-1  group-title=\"Unknown\", SER Radio Santander
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SANTANDER.mp3
-
-#EXTINF:-1  group-title=\"Unknown\", SER Asón
-https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASON.mp3
 
 #EXTINF:-1  group-title=\"Unknown\", SER Castro Urdiales
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CASTRO_URDIALES.mp3
@@ -1634,10 +1609,6 @@ https://server10.emitironline.com:8102/;
 #EXTINF:-1  group-title=\"Unknown\", esRadio Castilla y León
 https://libertaddigital-radio-live4.flumotion.com/libertaddigital/ld-live4-med.aac
 
-
-#EXTINF:-1  group-title=\"Unknown\", Radio Oro
-http://185.23.192.118:8004/;stream.mp3
-
 #EXTINF:-1  group-title=\"Unknown\", Radio Nerja
 https://online.vibacomunicacion.com:9974/stream
 
@@ -1695,7 +1666,6 @@ https://streaming2.elitecomunicacion.es:8142/stream
 #EXTINF:-1  group-title=\"Unknown\", La Mega FM Costa Tropical
 https://streaming12.elitecomunicacion.es:8642/stream
 
-
 #EXTINF:-1  group-title=\"Unknown\", Cadena Dial Arahal
 https://playerservices.streamtheworld.com/api/livestream-redirect/DIAL_ASO_MORON.mp3
 
@@ -1737,9 +1707,6 @@ https://streaming.radiorociana.com/;stream.mp3
 
 #EXTINF:-1  group-title=\"Unknown\", ACTIVA 96.5 MHZ ITUZAINGO
 https://server4.hostradios.com:7089/stream.aac
-
-#EXTINF:-1  group-title=\"Unknown\", Chipi radio
-http://streaming.escuchanosonline.com:8224/
 
 #EXTINF:-1  group-title=\"Unknown\", Cadena SER
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
@@ -1999,9 +1966,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LUNA.m
 #EXTINF:-1  group-title=\"Unknown\", SER Málaga
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MALAGA.mp3
 
-#EXTINF:-1  group-title=\"Unknown\", SER Marbella Costa del Sol
-https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MARBELLA_COSTA_SOL.mp3
-
 #EXTINF:-1  group-title=\"Unknown\", SER Morón
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_MORON.mp3
 
@@ -2103,5 +2067,4 @@ https://c3ny1.mediainbox.net/popular.mp3
 
 #EXTINF:-1  group-title=\"Unknown\", 1 Rivadavia AM 630
 https://21933.live.streamtheworld.com/RIVADAVIAAAC.aac
-
 
