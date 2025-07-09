@@ -1,6 +1,12 @@
 #EXTINF:-1  group-title=\"Unknown\", 1 Radio Colonia 550
 https://streaming1.hostingmontevideo.com:7019/
 
+
+
+#EXTINF:-1  group-title=\"Unknown\", 1 Radio El faro (Rio colorado)
+https://genexservicios.com:8348/;?1752035922857
+
+
 #EXTINF:-1  group-title=\"Unknown\", 1 Delta 90.3
 https://cdn.instream.audio/:9069/stream
 
