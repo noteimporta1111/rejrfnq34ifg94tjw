@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1  group-title=\"Unknown\", 1 Net TV
+https://unlimited1-saopaulo.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:-1  group-title=\"Unknown\", 1 Ciudad magica
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
