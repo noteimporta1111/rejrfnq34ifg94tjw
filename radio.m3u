@@ -1,7 +1,8 @@
 #EXTINF:-1  group-title=\"Unknown\", 1 Radio Colonia 550
 https://streaming1.hostingmontevideo.com:7019/
 
-
+#EXTINF:-1  group-title=\"Unknown\", 1 Radio PINK (Bahia Blanca)
+https://streaming3.locucionar.com/proxy/pink97?mp=/stream
 
 #EXTINF:-1  group-title=\"Unknown\", 1 Radio El faro (Rio colorado)
 https://genexservicios.com:8348/;?1752035922857
