@@ -14,6 +14,10 @@ https://tv.streamcasthd.com:3614/live/canal9riocuartotvlive.m3u8
 https://audiov-srv2.rec.unrc.edu.ar/hls/stream.m3u8
 
 
+#EXTINF:-1  group-title=\"Unknown\", Marcos Juarez | TRU
+https://vivo.solumedia.com:19360/unimar/unimar.m3u8
+
+
 
 
 #EXTINF:-1  group-title=\"Unknown\", San Juan | Canal 34
