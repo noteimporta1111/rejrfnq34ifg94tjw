@@ -1,14 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1  group-title=\"Unknown\", 1 A24
-https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/1d45df14-a67c-40fa-8b1a-774cc5d44c91:SCL2/variant/b20e54831be1870c77de57c177c43ab4/bandwidth/2800000.m3u8
-
-
-
-#EXTINF:-1  group-title=\"Unknown\", 1 Cronica 
-https://g4.vxral-hor.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_540p.m3u8
-
 
 
 #EXTINF:-1  group-title=\"Unknown\", 1 Novelisima 
