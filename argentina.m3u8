@@ -1,11 +1,7 @@
 #EXTM3U
 
-
-
 #EXTINF:-1  group-title=\"Unknown\", San Juan | Canal 34
-
 https://streamyes.alsolnet.com/canal34hd/live/chunklist_w329713436.m3u8
-
 
 #EXTINF:-1  group-title=\"Unknown\", Catamarca | RTV
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?D
@@ -372,46 +368,46 @@ https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8?PlaylistM3U
 #EXTINF:-1  group-title=\"Unknown\", Canal 4 Jujuy | AR
 https://5cd577a3dd8ec.streamlock.net/CAMARAS/live4/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  group-title=\"Unknown\", Canal 4 Posadas | AR
+#EXTINF:-1  group-title=\"Unknown\", Posadas | Canal 4
 https://iptv.ixfo.com.ar:30443/live-HD/C4POS/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  group-title=\"Unknown\", Canal 5 Pico Truncado | AR
+#EXTINF:-1  group-title=\"Unknown\", Pico truncado | Canal 5
 https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  group-title=\"Unknown\", Canal 5 Santa Fe | AR
+#EXTINF:-1  group-title=\"Unknown\", Santa fe | Canal 5
 https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  group-title=\"Unknown\", Canal 5 Tucuman | AR
+#EXTINF:-1  group-title=\"Unknown\", Tucuman | Canal 5
 https://videohd.live:19360/8090/8090.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  group-title=\"Unknown\", Canal 50 Morteros | AR
+#EXTINF:-1  group-title=\"Unknown\", Morteros | Canal 50
 https://online.coopmorteros.coop/canal50/vivo.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  group-title=\"Unknown\", Canal 6 Posadas | AR
+#EXTINF:-1  group-title=\"Unknown\", Misiones | Canal 6
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  group-title=\"Unknown\", Canal 7 Jujuy | AR
+#EXTINF:-1  group-title=\"Unknown\", Jujuy | Canal 7
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  group-title=\"Unknown\", Canal 7 Neuquen | AR
+#EXTINF:-1  group-title=\"Unknown\", Neuquen | Canal 7
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  group-title=\"Unknown\", Canal 7 Santiago del Estero | AR
+#EXTINF:-1  group-title=\"Unknown\", Santiago del estero | Canal 7
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  group-title=\"Unknown\", Canal 79 Mar del Plata | AR
+#EXTINF:-1  group-title=\"Unknown\", Mar del plata | Canal 79
 https://streamconex.com:19360/mardelplata/mardelplata.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  group-title=\"Unknown\", Canal 9 La Rioja | AR
+#EXTINF:-1  group-title=\"Unknown\", La rioja | Canal 9
 https://inliveserver.com:1936/12014/12014/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  group-title=\"Unknown\", Canal 9 Litoral | AR
+#EXTINF:-1  group-title=\"Unknown\", Litoral | Canal 9
 https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1  group-title=\"Unknown\", Canal 907 FM Comunicar | AR
 https://panel.host-live.com:19360/canal907/canal907.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  group-title=\"Unknown\", Canal Cinco Tigre | AR
+#EXTINF:-1  group-title=\"Unknown\", Tigre | Canal Cinco
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 
 #EXTINF:-1  group-title=\"Unknown\", Canal Coop | AR
@@ -426,7 +422,7 @@ https://cdn.trimi.com.ar/live/sm-live/PROVINCIAL/sa_live_hls/PROVINCIAL.m3u8?Pla
 #EXTINF:-1  group-title=\"Unknown\", Caras TV | AR
 https://unlimited2-cl-isp.dps.live/carastv/carastv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  group-title=\"Unknown\", Catamarca TV | AR
+#EXTINF:-1  group-title=\"Unknown\", Catamarca | Catamarca TV
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1  group-title=\"Unknown\", Celta TV | AR
@@ -480,13 +476,13 @@ https://live-05-13-la100.vodgc.net/live-05-13-la100/index.m3u8?PlaylistM3UCL
 #EXTINF:-1  group-title=\"Unknown\", Lapacho TV Canal 11 | AR
 https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  group-title=\"Unknown\", Latina TV Mendoza | AR
+#EXTINF:-1  group-title=\"Unknown\", Mendoza | Latina TV
 https://videostream.shockmedia.com.ar:19360/latinatv/latinatv.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  group-title=\"Unknown\", Link TV | AR
+#EXTINF:-1  group-title=\"Unknown\", Link TV
 https://panel.host-live.com:19360/linktv/linktv.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  group-title=\"Unknown\", Litus TV | AR
+#EXTINF:-1  group-title=\"Unknown\", Litus TV
 https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1  group-title=\"Unknown\", LT9 Radio Brigadier Lopez | AR
@@ -507,7 +503,7 @@ https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8?PlaylistM3
 #EXTINF:-1  group-title=\"Unknown\", Metropolitana FM | AR
 https://panel.host-live.com:19360/metropolitanafm/metropolitanafm.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  group-title=\"Unknown\", Misiones Cuatro | AR
+#EXTINF:-1  group-title=\"Unknown\", Misiones | Misiones Cuatro
 https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1  group-title=\"Unknown\", Multivisión | AR
@@ -534,10 +530,10 @@ https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8?PlaylistM3UCL
 #EXTINF:-1  group-title=\"Unknown\", Power Max TV | AR
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  group-title=\"Unknown\", Neuquen - Radio TV Neuquen
+#EXTINF:-1  group-title=\"Unknown\", Neuquen | Radio TV
 https://media.neuquen.gov.ar/rtn/television/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  group-title=\"Unknown\", Radio Valle Viejo
+#EXTINF:-1  group-title=\"Unknown\", Valle viejo | Radio Valle Viejo
 https://stream.arcast.ar/radiovalleviejo/ngrp:radiovalleviejo_all/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1  group-title=\"Unknown\", RBD Radio Multimedia
@@ -552,16 +548,16 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8?PlaylistM3UCL
 #EXTINF:-1  group-title=\"Unknown\", Solive
 https://stmv6.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  group-title=\"Unknown\", La pampa - Somos La Pampa
+#EXTINF:-1  group-title=\"Unknown\", La pampa | Somos La Pampa
 https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  group-title=\"Unknown\", Santa Fe - TDC TV
+#EXTINF:-1  group-title=\"Unknown\", Santa Fe | TDC TV
 https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8?PlaylistM3UCL
 
 #EXTINF:-1  group-title=\"Unknown\", Tele Estrella | AR
 https://stmvideo6.livecastv.com/telestrella/telestrella/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  group-title=\"Unknown\", Posadas - Tele Posadas HD | AR
+#EXTINF:-1  group-title=\"Unknown\", Posadas | Tele Posadas
 https://videostream.shockmedia.com.ar:19360/teleposadas/teleposadas.m3u8?PlaylistM3UCL
 
 #EXTINF:-1  group-title=\"Unknown\", Telecondor Internacional | AR
@@ -570,7 +566,7 @@ https://stmvideo1.livecastv.com/telecondor/telecondor/playlist.m3u8?PlaylistM3UC
 #EXTINF:-1  group-title=\"Unknown\", Telecreativa | AR
 https://panel.host-live.com:19360/8012/8012.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  group-title=\"Unknown\", Junin - TeleJunin | AR
+#EXTINF:-1  group-title=\"Unknown\", Junin | TeleJunin
 https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8?PlaylistM3UCL
 
 #EXTINF:-1  group-title=\"Unknown\", Telemax | AR
@@ -579,7 +575,7 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8?PlaylistM3UCL
 #EXTINF:-1  group-title=\"Unknown\", TeleNord | AR
 https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  group-title=\"Unknown\", Telesol San Juan | AR
+#EXTINF:-1  group-title=\"Unknown\", San juan | Telesol
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1  group-title=\"Unknown\", Televideo | AR
@@ -594,7 +590,7 @@ https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8#t=0.1?PlaylistM
 #EXTINF:-1  group-title=\"Unknown\", Tribu TV | AR
 https://stream.arcast.com.ar/tributv/tributv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  group-title=\"Unknown\", TV Dos Salta | AR
+#EXTINF:-1  group-title=\"Unknown\", Salta | TV Dos
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8?PlaylistM3UCL
 
 #EXTINF:-1  group-title=\"Unknown\", TV Mana | AR
