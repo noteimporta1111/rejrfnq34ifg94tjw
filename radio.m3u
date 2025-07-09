@@ -1,6 +1,17 @@
 #EXTINF:-1  group-title=\"Unknown\", 1 Radio Colonia 550
 https://streaming1.hostingmontevideo.com:7019/
 
+
+#EXTINF:-1  group-title=\"Unknown\", 1 Radio Blue 100.7 FM
+https://26593.live.streamtheworld.com/BLUE_FM_100_7AAC.aac?dist=onlineradiobox
+
+
+#EXTINF:-1  group-title=\"Unknown\", 1 Radio Disney
+https://27693.live.streamtheworld.com/DISNEY_ARG_BA.mp3?dist=onlineradiobox
+
+
+
+
 #EXTINF:-1  group-title=\"Unknown\", 1 Radio 10
 https://radio10.stweb.tv/radio10/live/playlist.m3u8
 
