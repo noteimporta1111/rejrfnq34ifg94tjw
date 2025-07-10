@@ -1,15 +1,5 @@
-#EXTM3U
 #EXTINF:-1  group-title=\"Unknown\", Abya Yala TV
 https://seo.tv.bo/tv/LIpSEO-TV-8.m3u8
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1  group-title=\"Unknown\", BabyFirst Spanish
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/manifest.m3u8
@@ -56,17 +46,23 @@ https://tv2.bitstreaming.net:3896/multi_web/play.m3u8
 #EXTINF:-1  group-title=\"Unknown\", Hiperconectados TV
 https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
 
+#EXTINF:-1  group-title=\"Unknown\", History 2 Latin America
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", HTV
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HTV/index.m3u8
+
 #EXTINF:-1  group-title=\"Unknown\", Imperial TV
 https://play.agenciastreaming.com:19360/8122/8122.m3u8
+
+#EXTINF:-1  group-title=\"Unknown\", National Geographic Latin America
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
 
 #EXTINF:-1  group-title=\"Unknown\", Nuevo Tiempo 
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 
 #EXTINF:-1  group-title=\"Unknown\", Palenque TV
 https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
-
-#EXTINF:-1  group-title=\"Unknown\", PAT La Paz
-https://www.redpat.tv/proxylpz/index.m3u8
 
 #EXTINF:-1  group-title=\"Unknown\", Platzi TV 
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
@@ -86,8 +82,8 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1  group-title=\"Unknown\", Red CCTV 
 https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", RTP
-https://rtp.noxun.net/hls/stream.m3u8
+#EXTINF:-1  group-title=\"Unknown\", Studio Universal Latin America
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
 
 #EXTINF:-1  group-title=\"Unknown\", 
 https://signal.suyaitv.cl/live/35/playlist.m3u8?username=ZZDemoIPTVGH&password=9PcdCnFxUe
@@ -107,6 +103,9 @@ https://master.tucableip.com/univalletv/playlist.m3u8
 #EXTINF:-1  group-title=\"Unknown\", UPP TV/Bolivisión SCZ 
 https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
 
+#EXTINF:-1  group-title=\"Unknown\", USA Network Latin America
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
+
 #EXTINF:-1  group-title=\"Unknown\", Venevisión Internacional 
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 
@@ -115,5 +114,7 @@ https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1  group-title=\"Unknown\", VTV Canal 17 
 https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8
+
+
 
 
