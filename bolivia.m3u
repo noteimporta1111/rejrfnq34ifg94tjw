@@ -11,9 +11,6 @@ https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 #EXTINF:-1  group-title=\"Unknown\", Bolivisión LPZ 
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Canal 29 TVA
-https://play.agenciastreaming.com:19360/8160/8160.m3u8
-
 #EXTINF:-1  group-title=\"Unknown\", Caribbean Advantage TV 
 https://video2.getstreamhosting.com:19360/8216/8216.m3u8
 
@@ -50,17 +47,8 @@ https://tv2.bitstreaming.net:3896/multi_web/play.m3u8
 #EXTINF:-1  group-title=\"Unknown\", Hiperconectados TV
 https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", History 2 Latin America
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
-
-#EXTINF:-1  group-title=\"Unknown\", HTV
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HTV/index.m3u8
-
 #EXTINF:-1  group-title=\"Unknown\", Imperial TV
 https://play.agenciastreaming.com:19360/8122/8122.m3u8
-
-#EXTINF:-1  group-title=\"Unknown\", National Geographic Latin America
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
 
 #EXTINF:-1  group-title=\"Unknown\", Nuevo Tiempo 
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
@@ -92,9 +80,6 @@ https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 #EXTINF:-1  group-title=\"Unknown\", RTP
 https://rtp.noxun.net/hls/stream.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", Studio Universal Latin America
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
-
 #EXTINF:-1  group-title=\"Unknown\", 
 https://signal.suyaitv.cl/live/35/playlist.m3u8?username=ZZDemoIPTVGH&password=9PcdCnFxUe
 
@@ -113,9 +98,6 @@ https://master.tucableip.com/univalletv/playlist.m3u8
 #EXTINF:-1  group-title=\"Unknown\", UPP TV/Bolivisión SCZ 
 https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1  group-title=\"Unknown\", USA Network Latin America
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
-
 #EXTINF:-1  group-title=\"Unknown\", Venevisión Internacional 
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 
@@ -124,4 +106,5 @@ https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1  group-title=\"Unknown\", VTV Canal 17 
 https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8
+
 
